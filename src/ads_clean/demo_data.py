@@ -7,12 +7,64 @@ from typing import Dict, Iterable, List, Optional
 
 import pandas as pd
 
+from .datasets import default_dataset_configs, packaged_suite
+
 
 @dataclass
 class DemoRun:
     run_dir: Path
     label: str
     metrics: Dict[str, object]
+
+
+MODEL_CANDIDATES = {
+    "classification": ["random_forest", "svm"],
+    "regression": ["ridge", "linear", "random_forest"],
+}
+
+
+def dataset_catalog() -> List[Dict[str, object]]:
+    configs = default_dataset_configs()
+    rows = []
+    for name in packaged_suite():
+        cfg = configs[name]
+        rows.append({
+            "name": cfg.name,
+            "task_type": cfg.task_type,
+            "target": cfg.target,
+            "default_model": cfg.model_type,
+            "candidate_models": MODEL_CANDIDATES.get(cfg.task_type, [cfg.model_type]),
+            "cleaner_profile": cfg.cleaner_profile,
+            "source": cfg.source,
+            "notes": cfg.notes,
+            "dirty_path": str(cfg.dirty_path),
+            "clean_path": str(cfg.clean_path) if cfg.clean_path else "",
+            "rows": _csv_row_count(cfg.dirty_path),
+            "has_clean_reference": cfg.has_clean_reference,
+        })
+    return rows
+
+
+def runs_for_config(
+    runs: Iterable[DemoRun],
+    dataset: str,
+    scenario: Optional[str] = None,
+    model_type: Optional[str] = None,
+    error_rate: Optional[str] = None,
+) -> List[DemoRun]:
+    selected: List[DemoRun] = []
+    for run in runs:
+        metrics = run.metrics
+        if metrics.get("dataset") != dataset:
+            continue
+        if scenario and metrics.get("scenario") != scenario:
+            continue
+        if model_type and metrics.get("model_type") != model_type:
+            continue
+        if scenario == "artificial" and error_rate and str(metrics.get("error_rate")) != str(error_rate):
+            continue
+        selected.append(run)
+    return selected
 
 
 def available_runs(roots: Optional[Iterable[Path]] = None) -> List[DemoRun]:
@@ -160,6 +212,29 @@ def action_summary(action_trace: pd.DataFrame) -> pd.DataFrame:
     return grouped.reset_index().sort_values("count", ascending=False)
 
 
+def action_records(action_trace: pd.DataFrame, action_name: str) -> pd.DataFrame:
+    if action_trace.empty or "action" not in action_trace.columns:
+        return pd.DataFrame()
+    action_map = {"no_op": 0, "repair_value": 1, "delete": 2, "replace_nearby": 3}
+    return action_trace[action_trace["action"].astype(int) == action_map[action_name]]
+
+
+def operation_summary(operation_trace: pd.DataFrame) -> pd.DataFrame:
+    if operation_trace.empty:
+        return pd.DataFrame()
+    df = operation_trace.copy()
+    group_cols = [col for col in ("action", "operation_type", "source") if col in df.columns]
+    if not group_cols:
+        return pd.DataFrame({"records": [len(df)]})
+    if "changed" not in df.columns:
+        df["changed"] = False
+    grouped = df.groupby(group_cols, dropna=False).agg(
+        records=(group_cols[0], "size"),
+        changed=("changed", lambda values: int(values.fillna(False).astype(bool).sum()) if hasattr(values, "fillna") else 0),
+    )
+    return grouped.reset_index().sort_values("records", ascending=False)
+
+
 def _run_label(run_dir: Path, metrics: Dict[str, object]) -> str:
     dataset = metrics.get("dataset", run_dir.name)
     scenario = metrics.get("scenario", "")
@@ -182,3 +257,12 @@ def _read_csv(path: Path) -> pd.DataFrame:
         return pd.read_csv(path)
     except pd.errors.EmptyDataError:
         return pd.DataFrame()
+
+
+def _csv_row_count(path: Path) -> int:
+    if not path.exists():
+        return 0
+    try:
+        return max(0, sum(1 for _ in path.open("r", encoding="utf-8", errors="ignore")) - 1)
+    except OSError:
+        return 0

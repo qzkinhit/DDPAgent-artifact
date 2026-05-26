@@ -2,7 +2,7 @@ import json
 
 import pandas as pd
 
-from ads_clean.demo_data import action_summary, build_workflow_graph, load_run
+from ads_clean.demo_data import action_summary, build_workflow_graph, dataset_catalog, load_run, runs_for_config
 from ads_clean.executor import execute_final_cleaning
 from ads_clean.repair_sources import CleanedValueSource
 
@@ -76,3 +76,31 @@ def test_demo_bundle_uses_only_existing_trace_files(tmp_path):
 
     summary = action_summary(bundle["action_trace"])
     assert set(summary["action_name"]) == {"no_op", "repair_value"}
+
+
+def test_dataset_catalog_and_run_filter_are_configuration_driven(tmp_path):
+    catalog = dataset_catalog()
+    names = {row["name"] for row in catalog}
+    assert {"beers", "flights", "hospitals", "rayyan", "tax"} <= names
+    tax = next(row for row in catalog if row["name"] == "tax")
+    assert tax["task_type"] == "regression"
+    assert "ridge" in tax["candidate_models"]
+
+    class Run:
+        def __init__(self, dataset, scenario, model_type, error_rate=None):
+            self.metrics = {
+                "dataset": dataset,
+                "scenario": scenario,
+                "model_type": model_type,
+                "error_rate": error_rate,
+            }
+            self.run_dir = tmp_path
+
+    runs = [
+        Run("beers", "original", "random_forest"),
+        Run("beers", "original", "svm"),
+        Run("tax", "original", "ridge"),
+    ]
+    matched = runs_for_config(runs, "beers", scenario="original", model_type="svm")
+    assert len(matched) == 1
+    assert matched[0].metrics["model_type"] == "svm"

@@ -101,7 +101,7 @@ PYTHONPATH=src python -m ads_clean.cli run \
   --trace-operators
 ```
 
-## Interactive Demo
+## Interactive Agent Console
 
 Start the UI with:
 
@@ -115,7 +115,14 @@ Then open the URL printed by Streamlit, usually:
 http://127.0.0.1:8501
 ```
 
-The UI defaults to real cached artifacts. Expand **Run Real Pipeline** to execute a new real run. The global language button in the sidebar switches between English and Chinese.
+The UI is organized as an agent console rather than a static result browser. It first asks the user to configure the data-governance task:
+
+1. choose a dataset
+2. choose native or injected-error setting
+3. choose candidate downstream models and an active model
+4. choose cached artifact inspection or real execution
+
+The UI defaults to real cached artifacts. Select **Run real pipeline** in the execution step to launch a new real run. The global language button in the sidebar switches between English and Chinese.
 
 The workflow explorer shows:
 
