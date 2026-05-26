@@ -1,0 +1,9 @@
+{
+  "dataset": "beers",
+  "scenario": "artificial",
+  "error_rate": "2",
+  "cleaner_profile": "beers",
+  "candidate_repairs": 669,
+  "cached": true,
+  "cleaned_csv": "result_assets/UnicleanResult/Uniclean_cleaned_data/artificial_error_cleaned_data/3_beers_2_cleaned_by_uniclean.csv"
+}

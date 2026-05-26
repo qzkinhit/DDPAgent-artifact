@@ -1,0 +1,32 @@
+row_idx,row_pos,column,action,source,value
+19,15,journal_issn,repair_value,cached_uniclean,68-Jan
+35,30,journal_title,repair_value,cached_uniclean,Journal of stroke andd cerebrovascular diseases : the official journal of National Stroke Association
+132,96,journal_issn,repair_value,cached_uniclean,37-Feb
+372,246,journal_title,replace_nearby,cached_uniclean,Annals of iinternal medicine
+615,397,journal_title,replace_nearby,cached_uniclean,Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography & Interventions
+643,414,journal_title,replace_nearby,cached_uniclean,Public health nursing (Boston Mass.)
+747,476,journal_issn,replace_nearby,cached_uniclean,67-Mar
+868,559,journal_title,replace_nearby,cached_uniclean,Cancer chemotherapy and pharmacology
+149,106,journal_issn,replace_nearby,cached_uniclean,0v017-5749
+236,160,journal_issn,replace_nearby,cached_uniclean,47-Jan
+289,190,journal_title,replace_nearby,cached_uniclean,PLoS One
+320,212,journal_title,replace_nearby,cached_uniclean,Cardiology in the young
+392,257,journal_issn,replace_nearby,cached_uniclean,62-Feb
+398,262,journal_title,replace_nearby,cached_uniclean,Anesthesia And Analgesia
+416,272,journal_issn,replace_nearby,cached_uniclean,0197-0142
+435,282,journal_issn,replace_nearby,cached_uniclean,65-Feb
+473,310,journal_title,replace_nearby,cached_uniclean,Science (New Yor N.Y.)
+487,321,journal_title,replace_nearby,cached_uniclean,Physiotherapy
+508,329,journal_issn,replace_nearby,cached_uniclean,53-Nov
+575,371,journal_title,replace_nearby,cached_uniclean,Tumour biology : the journal of the International Society for Oncodevelopmental Biology and Medicine
+587,380,journal_title,replace_nearby,cached_uniclean,European Journal Of Anaesthesidology
+596,385,journal_title,replace_nearby,cached_uniclean,J Orthop Sci
+645,416,journal_issn,replace_nearby,cached_uniclean,55-Jan
+657,424,journal_title,replace_nearby,cached_uniclean,Nephrology dialysis transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association
+664,430,journal_title,replace_nearby,cached_uniclean,PLoS One
+691,444,journal_issn,replace_nearby,cached_uniclean,60-Sep
+705,452,journal_title,replace_nearby,cached_uniclean,BioMed research international
+770,492,journal_title,replace_nearby,cached_uniclean,PLoS One
+849,547,journal_issn,replace_nearby,cached_uniclean,67-Mar
+892,574,journal_title,replace_nearby,cached_uniclean,J Hand Surg Am
+954,611,journal_title,replace_nearby,cached_uniclean,International journal of obesity (2005)

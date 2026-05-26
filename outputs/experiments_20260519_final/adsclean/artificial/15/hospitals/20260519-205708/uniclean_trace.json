@@ -1,0 +1,9 @@
+{
+  "dataset": "hospitals",
+  "scenario": "artificial",
+  "error_rate": "15",
+  "cleaner_profile": "hospitals",
+  "candidate_repairs": 1238,
+  "cached": true,
+  "cleaned_csv": "result_assets/UnicleanResult/Uniclean_cleaned_data/artificial_error_cleaned_data/1_hospital_15_cleaned_by_uniclean.csv"
+}

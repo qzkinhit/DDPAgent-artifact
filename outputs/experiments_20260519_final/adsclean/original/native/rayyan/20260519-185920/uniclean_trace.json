@@ -1,0 +1,9 @@
+{
+  "dataset": "rayyan",
+  "scenario": "original",
+  "error_rate": null,
+  "cleaner_profile": "rayyan",
+  "candidate_repairs": 1397,
+  "cached": true,
+  "cleaned_csv": "result_assets/UnicleanResult/Uniclean_cleaned_data/original_error_cleaned_data/4_rayyan_cleaned_by_uniclean.csv"
+}

@@ -1,0 +1,153 @@
+row_idx,row_pos,column,action,source,value
+8,7,HospitalName,delete_as_uniclean_repair,cached_uniclean,callahan eye foundation hospital
+8,7,CountyName,delete_as_uniclean_repair,cached_uniclean,jefferson
+14,13,HospitalName,delete_as_uniclean_repair,cached_uniclean,helen keller memorial hospital
+15,14,HospitalName,repair_value,cached_uniclean,helen keller memorial hospital
+19,18,City,repair_value,cached_uniclean,sheffield
+19,18,PhoneNumber,repair_value,cached_uniclean,2563864556
+33,32,City,repair_value,cached_uniclean,dothan
+46,45,State,replace_nearby,cached_uniclean,al
+59,58,Address1,replace_nearby,cached_uniclean,2505 u s highway 431 north
+82,80,ZipCode,repair_value,cached_uniclean,35631
+105,103,PhoneNumber,repair_value,cached_uniclean,3344933541
+105,103,MeasureName,repair_value,cached_uniclean,heart failure patients given smoking cessation advice/counseling
+105,103,Stateavg,repair_value,cached_uniclean,al_hf-4
+115,113,ZipCode,repair_value,cached_uniclean,36467
+146,144,City,replace_nearby,cached_uniclean,hartselle
+149,147,State,replace_nearby,cached_uniclean,al
+174,171,EmergencyService,repair_value,cached_uniclean,yes
+183,180,State,replace_nearby,cached_uniclean,al
+189,186,ZipCode,replace_nearby,cached_uniclean,35976
+189,186,MeasureName,replace_nearby,cached_uniclean,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+193,190,HospitalName,repair_value,cached_uniclean,marshall medical center north
+194,191,HospitalName,repair_value,cached_uniclean,marshall medical center north
+202,199,ZipCode,repair_value,cached_uniclean,35235
+214,211,Address1,repair_value,cached_uniclean,50 medical park east drive
+216,213,PhoneNumber,repair_value,cached_uniclean,2058383122
+230,227,HospitalName,repair_value,cached_uniclean,dekalb regional medical center
+240,237,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-3
+245,242,HospitalName,repair_value,cached_uniclean,southwest alabama medical center
+245,242,MeasureName,repair_value,cached_uniclean,heart attack patients given aspirin at arrival
+257,254,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-3b
+262,259,City,delete_as_uniclean_repair,cached_uniclean,thomasville
+292,289,EmergencyService,replace_nearby,cached_uniclean,yes
+303,300,Address1,delete_as_uniclean_repair,cached_uniclean,1720 university blvd
+304,301,Address1,delete_as_uniclean_repair,cached_uniclean,1720 university blvd
+304,301,ZipCode,delete_as_uniclean_repair,cached_uniclean,35233
+305,302,Address1,delete_as_uniclean_repair,cached_uniclean,1720 university blvd
+305,302,ZipCode,delete_as_uniclean_repair,cached_uniclean,35233
+306,303,ZipCode,repair_value,cached_uniclean,35233
+317,314,ZipCode,repair_value,cached_uniclean,36201
+326,323,PhoneNumber,repair_value,cached_uniclean,2562358900
+332,329,City,repair_value,cached_uniclean,dothan
+337,334,PhoneNumber,repair_value,cached_uniclean,3347935000
+365,362,CountyName,repair_value,cached_uniclean,marion
+377,374,MeasureName,delete_as_uniclean_repair,cached_uniclean,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+386,383,City,repair_value,cached_uniclean,mobile
+387,384,EmergencyService,repair_value,cached_uniclean,yes
+388,385,Address1,replace_nearby,cached_uniclean,2451 fillingim street
+390,387,ZipCode,repair_value,cached_uniclean,36617
+411,407,HospitalName,replace_nearby,cached_uniclean,prattville baptist hospital
+429,424,HospitalName,replace_nearby,cached_uniclean,coosa valley medical center
+435,430,HospitalName,replace_nearby,cached_uniclean,alaska regional hospital
+435,430,Stateavg,replace_nearby,cached_uniclean,al_hf-3
+451,446,Stateavg,repair_value,cached_uniclean,al_ami-1
+452,447,Stateavg,repair_value,cached_uniclean,al_ami-2
+453,448,PhoneNumber,repair_value,cached_uniclean,2563864556
+454,449,PhoneNumber,repair_value,cached_uniclean,2563864556
+455,450,HospitalName,repair_value,cached_uniclean,helen keller memorial hospital
+455,450,MeasureName,repair_value,cached_uniclean,pneumonia patients given smoking cessation advice/counseling
+457,452,HospitalName,repair_value,cached_uniclean,helen keller memorial hospital
+459,454,HospitalName,repair_value,cached_uniclean,helen keller memorial hospital
+460,455,City,repair_value,cached_uniclean,sheffield
+461,456,City,repair_value,cached_uniclean,sheffield
+462,457,City,repair_value,cached_uniclean,sheffield
+468,463,EmergencyService,replace_nearby,cached_uniclean,yes
+483,478,HospitalName,repair_value,cached_uniclean,dale medical center
+488,483,Condition,repair_value,cached_uniclean,surgical infection prevention
+489,484,EmergencyService,repair_value,cached_uniclean,yes
+495,490,Condition,delete_as_uniclean_repair,cached_uniclean,heart attack
+499,494,Address1,replace_nearby,cached_uniclean,400 northwood dr
+507,501,Address1,replace_nearby,cached_uniclean,400 northwood dr
+515,509,Condition,repair_value,cached_uniclean,surgical infection prevention
+532,526,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-6
+541,535,Address1,repair_value,cached_uniclean,2105 east south boulevard
+541,535,EmergencyService,repair_value,cached_uniclean,yes
+548,542,Stateavg,repair_value,cached_uniclean,al_ami-8a
+567,561,MeasureName,repair_value,cached_uniclean,heart attack patients given aspirin at arrival
+570,564,Stateavg,repair_value,cached_uniclean,al_ami-4
+574,568,Condition,repair_value,cached_uniclean,heart failure
+588,582,EmergencyService,repair_value,cached_uniclean,yes
+593,587,State,repair_value,cached_uniclean,al
+607,601,MeasureName,repair_value,cached_uniclean,pneumonia patients given the most appropriate initial antibiotic(s)
+620,613,City,repair_value,cached_uniclean,opelika
+624,617,PhoneNumber,repair_value,cached_uniclean,3347493411
+630,623,Condition,repair_value,cached_uniclean,pneumonia
+631,624,Condition,repair_value,cached_uniclean,pneumonia
+641,634,ZipCode,repair_value,cached_uniclean,36801
+641,634,CountyName,repair_value,cached_uniclean,lee
+647,640,EmergencyService,repair_value,cached_uniclean,no
+649,642,City,repair_value,cached_uniclean,wedowee
+652,645,Address1,replace_nearby,cached_uniclean,209 north main street
+653,646,PhoneNumber,repair_value,cached_uniclean,2563572111
+661,654,PhoneNumber,repair_value,cached_uniclean,2563572111
+672,665,CountyName,repair_value,cached_uniclean,jefferson
+674,667,CountyName,repair_value,cached_uniclean,jefferson
+678,671,EmergencyService,repair_value,cached_uniclean,yes
+679,672,EmergencyService,repair_value,cached_uniclean,yes
+680,673,EmergencyService,repair_value,cached_uniclean,yes
+683,676,ZipCode,repair_value,cached_uniclean,35233
+684,677,State,repair_value,cached_uniclean,al
+717,709,MeasureName,repair_value,cached_uniclean,heart attack patients given aspirin at arrival
+727,719,PhoneNumber,repair_value,cached_uniclean,2567372000
+746,738,City,repair_value,cached_uniclean,andalusia
+748,740,State,repair_value,cached_uniclean,al
+754,746,State,repair_value,cached_uniclean,al
+767,759,HospitalName,repair_value,cached_uniclean,stringfellow memorial hospital
+768,760,CountyName,repair_value,cached_uniclean,calhoun
+770,762,Condition,repair_value,cached_uniclean,surgical infection prevention
+779,771,CountyName,repair_value,cached_uniclean,madison
+781,773,City,repair_value,cached_uniclean,huntsville
+783,775,Stateavg,repair_value,cached_uniclean,al_ami-7a
+785,777,CountyName,repair_value,cached_uniclean,madison
+787,779,ZipCode,repair_value,cached_uniclean,35801
+796,788,CountyName,repair_value,cached_uniclean,madison
+797,789,City,repair_value,cached_uniclean,huntsville
+797,789,EmergencyService,repair_value,cached_uniclean,yes
+798,790,Condition,repair_value,cached_uniclean,surgical infection prevention
+803,795,MeasureName,repair_value,cached_uniclean,heart attack patients given aspirin at arrival
+808,800,State,repair_value,cached_uniclean,al
+823,815,Condition,repair_value,cached_uniclean,surgical infection prevention
+830,822,EmergencyService,repair_value,cached_uniclean,yes
+840,832,Stateavg,repair_value,cached_uniclean,al_pn-3b
+852,844,Condition,replace_nearby,cached_uniclean,surgical infection prevention
+867,859,State,replace_nearby,cached_uniclean,al
+874,866,HospitalName,replace_nearby,cached_uniclean,marion regional medical center
+898,890,Condition,replace_nearby,cached_uniclean,surgical infection prevention
+920,912,CountyName,replace_nearby,cached_uniclean,etowah
+933,925,HospitalName,replace_nearby,cached_uniclean,georgiana hospital
+955,947,MeasureName,replace_nearby,cached_uniclean,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+959,951,HospitalName,replace_nearby,cached_uniclean,medical center enterprise
+959,951,Condition,replace_nearby,cached_uniclean,heart attack
+959,951,Stateavg,replace_nearby,cached_uniclean,al_ami-4
+963,955,State,replace_nearby,cached_uniclean,al
+976,968,State,replace_nearby,cached_uniclean,al
+977,969,HospitalName,replace_nearby,cached_uniclean,medical center enterprise
+980,972,Address1,replace_nearby,cached_uniclean,400 n edwards street
+980,972,MeasureName,replace_nearby,cached_uniclean,patients who got treatment  at the right time (within 24 hours before or after their surgery) to help prevent blood clots after certain types of surgery
+983,975,HospitalName,replace_nearby,cached_uniclean,st vincents blount
+997,989,Address1,replace_nearby,cached_uniclean,150 gilbreath drive
+10,9,State,delete_as_uniclean_repair,cached_uniclean,al
+11,10,State,delete_as_uniclean_repair,cached_uniclean,al
+467,462,EmergencyService,replace_nearby,cached_uniclean,yes
+848,840,Condition,replace_nearby,cached_uniclean,surgical infection prevention
+853,845,MeasureName,replace_nearby,cached_uniclean,heart attack patients given aspirin at arrival
+873,865,Condition,replace_nearby,cached_uniclean,surgical infection prevention
+875,867,HospitalName,replace_nearby,cached_uniclean,marion regional medical center
+910,902,HospitalName,replace_nearby,cached_uniclean,riverview regional medical center
+917,909,State,replace_nearby,cached_uniclean,al
+926,918,Condition,replace_nearby,cached_uniclean,surgical infection prevention
+926,918,MeasureName,replace_nearby,cached_uniclean,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery)
+943,935,Address1,replace_nearby,cached_uniclean,515 miranda st
+956,948,MeasureName,replace_nearby,cached_uniclean,heart attack patients given aspirin at arrival
+970,962,PhoneNumber,replace_nearby,cached_uniclean,3343470584

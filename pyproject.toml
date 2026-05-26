@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "adsclean"
+version = "0.1.0"
+description = "Agentic data cleaning pipeline coupling DemandClean control with UniClean workflow generation."
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+  "numpy>=1.22,<2.0",
+  "pandas>=1.5",
+  "scipy>=1.10",
+  "scikit-learn>=1.0,<1.5",
+  "torch>=2.0",
+  "pyspark>=3.1,<3.2",
+  "matplotlib>=3.5",
+  "networkx>=3.0",
+  "distance>=0.1.3",
+  "httplib2>=0.22.0",
+  "dateparser>=1.1.8",
+  "textdistance>=4.2.1",
+  "gensim>=4.3.0",
+  "pyyaml>=6.0",
+  "tqdm>=4.60",
+  "rich>=13.0",
+  "colorlog>=6.0",
+  "beautifulsoup4>=4.12",
+  "h5py>=3.0",
+]
+
+[project.optional-dependencies]
+benchmark = ["raha>=1.20"]
+ui = ["streamlit>=1.30", "plotly>=5.9"]
+
+[project.scripts]
+ads-clean = "ads_clean.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+py-modules = ["Clean", "uniclean_util"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["ads_clean*", "demandclean*", "SampleScrubber*", "AnalyticsCache*", "CoreSetSample*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+norecursedirs = ["result_assets", "outputs", "data", "demandclean", "uniclean", "vldb-workshop-style-master"]

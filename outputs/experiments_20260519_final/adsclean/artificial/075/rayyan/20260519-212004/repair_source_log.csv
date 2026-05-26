@@ -1,0 +1,6 @@
+row_idx,row_pos,column,action,source,value
+19,15,journal_issn,repair_value,cached_uniclean,68-Jan
+132,96,journal_issn,repair_value,cached_uniclean,37-Feb
+747,476,journal_issn,replace_nearby,cached_uniclean,67-Mar
+435,282,journal_issn,delete_as_uniclean_repair,cached_uniclean,65-Feb
+508,329,journal_issn,delete_as_uniclean_repair,cached_uniclean,53-Nov

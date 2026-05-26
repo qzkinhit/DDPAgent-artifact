@@ -1,0 +1,81 @@
+row_idx,row_pos,column,action,source,value
+125,123,MeasureName,replace_nearby,cached_uniclean,heart attack patients given fibrinolytic medication within 30 minutes of arrival
+132,130,State,replace_nearby,cached_uniclean,al
+135,133,EmergencyService,replace_nearby,cached_uniclean,yes
+169,167,City,replace_nearby,cached_uniclean,hartselle
+173,171,MeasureName,replace_nearby,cached_uniclean,heart attack patients given smoking cessation advice/counseling
+189,187,HospitalName,replace_nearby,cached_uniclean,marshall medical center north
+191,189,Stateavg,replace_nearby,cached_uniclean,al_scip-inf-4
+208,206,City,replace_nearby,cached_uniclean,birmingham
+226,224,ZipCode,replace_nearby,cached_uniclean,35968
+249,247,EmergencyService,replace_nearby,cached_uniclean,yes
+251,249,Address1,replace_nearby,cached_uniclean,33700 highway 43
+275,273,MeasureName,replace_nearby,cached_uniclean,heart attack patients given fibrinolytic medication within 30 minutes of arrival
+284,282,State,replace_nearby,cached_uniclean,al
+295,293,HospitalName,replace_nearby,cached_uniclean,callahan eye foundation hospital
+296,294,HospitalName,replace_nearby,cached_uniclean,callahan eye foundation hospital
+297,295,HospitalName,replace_nearby,cached_uniclean,callahan eye foundation hospital
+298,296,HospitalName,replace_nearby,cached_uniclean,callahan eye foundation hospital
+298,296,City,replace_nearby,cached_uniclean,birmingham
+299,297,HospitalName,replace_nearby,cached_uniclean,callahan eye foundation hospital
+300,298,Address1,replace_nearby,cached_uniclean,1720 university blvd
+301,299,Address1,replace_nearby,cached_uniclean,1720 university blvd
+310,308,State,replace_nearby,cached_uniclean,al
+311,309,State,replace_nearby,cached_uniclean,al
+327,325,MeasureName,replace_nearby,cached_uniclean,pneumonia patients given smoking cessation advice/counseling
+352,349,Stateavg,replace_nearby,cached_uniclean,al_ami-4
+376,373,Condition,replace_nearby,cached_uniclean,surgical infection prevention
+465,461,City,replace_nearby,cached_uniclean,sheffield
+465,461,PhoneNumber,replace_nearby,cached_uniclean,2563864556
+466,462,City,replace_nearby,cached_uniclean,sheffield
+466,462,PhoneNumber,replace_nearby,cached_uniclean,2563864556
+474,470,CountyName,replace_nearby,cached_uniclean,dale
+482,478,HospitalName,replace_nearby,cached_uniclean,dale medical center
+484,480,CountyName,replace_nearby,cached_uniclean,dale
+488,483,City,replace_nearby,cached_uniclean,ozark
+502,497,Address1,replace_nearby,cached_uniclean,400 northwood dr
+502,497,PhoneNumber,replace_nearby,cached_uniclean,2569275531
+522,517,Stateavg,replace_nearby,cached_uniclean,al_ami-7a
+526,521,Address1,replace_nearby,cached_uniclean,2105 east south boulevard
+558,552,CountyName,replace_nearby,cached_uniclean,montgomery
+569,563,State,replace_nearby,cached_uniclean,al
+587,581,State,replace_nearby,cached_uniclean,al
+592,586,MeasureName,replace_nearby,cached_uniclean,heart attack patients given aspirin at arrival
+597,591,PhoneNumber,replace_nearby,cached_uniclean,3348972257
+609,603,ZipCode,replace_nearby,cached_uniclean,36323
+619,613,MeasureName,replace_nearby,cached_uniclean,heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+626,620,ZipCode,replace_nearby,cached_uniclean,36801
+665,659,HospitalName,replace_nearby,cached_uniclean,wedowee hospital
+680,674,ZipCode,replace_nearby,cached_uniclean,35233
+693,687,City,replace_nearby,cached_uniclean,tallassee
+697,691,EmergencyService,replace_nearby,cached_uniclean,no
+727,721,CountyName,replace_nearby,cached_uniclean,cullman
+737,731,State,replace_nearby,cached_uniclean,al
+739,733,Stateavg,replace_nearby,cached_uniclean,al_scip-inf-6
+740,734,Stateavg,replace_nearby,cached_uniclean,al_scip-vte-1
+754,748,PhoneNumber,replace_nearby,cached_uniclean,3342228466
+762,756,State,replace_nearby,cached_uniclean,al
+765,759,Address1,replace_nearby,cached_uniclean,849 south three notch street
+772,766,State,replace_nearby,cached_uniclean,al
+774,768,Address1,replace_nearby,cached_uniclean,301 east 18th st
+778,772,Address1,replace_nearby,cached_uniclean,101 sivley rd
+799,793,HospitalName,replace_nearby,cached_uniclean,huntsville hospital
+803,797,ZipCode,replace_nearby,cached_uniclean,35903
+818,812,Stateavg,replace_nearby,cached_uniclean,al_pn-6
+819,813,Address1,replace_nearby,cached_uniclean,1007 goodyear avenue
+833,827,Stateavg,replace_nearby,cached_uniclean,al_ami-7a
+857,851,HospitalName,replace_nearby,cached_uniclean,marion regional medical center
+871,865,ZipCode,replace_nearby,cached_uniclean,35570
+890,884,HospitalName,replace_nearby,cached_uniclean,fayette medical center
+893,887,Stateavg,replace_nearby,cached_uniclean,al_pn-6
+900,894,PhoneNumber,replace_nearby,cached_uniclean,2059325966
+920,914,EmergencyService,replace_nearby,cached_uniclean,yes
+926,920,EmergencyService,replace_nearby,cached_uniclean,yes
+942,936,ZipCode,replace_nearby,cached_uniclean,36033
+958,952,City,replace_nearby,cached_uniclean,enterprise
+958,952,ZipCode,replace_nearby,cached_uniclean,36330
+974,968,Stateavg,replace_nearby,cached_uniclean,al_scip-inf-1
+977,971,PhoneNumber,replace_nearby,cached_uniclean,3343470584
+981,975,Address1,replace_nearby,cached_uniclean,150 gilbreath drive
+985,979,ZipCode,replace_nearby,cached_uniclean,35121
+995,989,MeasureName,replace_nearby,cached_uniclean,pneumonia patients given initial antibiotic(s) within 6 hours after arrival

@@ -1,0 +1,15 @@
+row_idx,row_pos,column,action,source,value
+19,15,journal_issn,delete_as_uniclean_repair,cached_uniclean,68-Jan
+132,96,journal_issn,delete_as_uniclean_repair,cached_uniclean,37-Feb
+747,476,journal_issn,delete_as_uniclean_repair,cached_uniclean,67-Mar
+236,160,journal_issn,delete_as_uniclean_repair,cached_uniclean,47-Jan
+289,190,journal_title,delete_as_uniclean_repair,cached_uniclean,PLoS One
+392,257,journal_issn,delete_as_uniclean_repair,cached_uniclean,62-Feb
+435,282,journal_issn,delete_as_uniclean_repair,cached_uniclean,65-Feb
+487,321,journal_title,delete_as_uniclean_repair,cached_uniclean,Physiotherapy
+493,323,journal_title,delete_as_uniclean_repair,cached_uniclean,Knee surgery sports traumatology arthroscopy : official journal of the ESSKA
+508,329,journal_issn,delete_as_uniclean_repair,cached_uniclean,53-Nov
+645,416,journal_issn,delete_as_uniclean_repair,cached_uniclean,55-Jan
+691,444,journal_issn,delete_as_uniclean_repair,cached_uniclean,60-Sep
+849,547,journal_issn,delete_as_uniclean_repair,cached_uniclean,67-Mar
+984,632,journal_issn,delete_as_uniclean_repair,cached_uniclean,65-Feb

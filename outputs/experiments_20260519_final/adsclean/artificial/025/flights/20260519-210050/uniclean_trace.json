@@ -1,0 +1,9 @@
+{
+  "dataset": "flights",
+  "scenario": "artificial",
+  "error_rate": "025",
+  "cleaner_profile": "flights",
+  "candidate_repairs": 78,
+  "cached": true,
+  "cleaned_csv": "result_assets/UnicleanResult/Uniclean_cleaned_data/artificial_error_cleaned_data/2_flights_025_cleaned_by_uniclean.csv"
+}

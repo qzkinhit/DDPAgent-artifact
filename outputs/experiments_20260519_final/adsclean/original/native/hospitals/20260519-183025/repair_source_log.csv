@@ -1,0 +1,178 @@
+row_idx,row_pos,column,action,source,value
+1,0,MeasureName,replace_nearby,cached_uniclean,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+14,13,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10019
+23,22,Condition,delete_as_uniclean_repair,cached_uniclean,heart attack
+43,42,State,delete_as_uniclean_repair,cached_uniclean,al
+150,149,ZipCode,delete_as_uniclean_repair,cached_uniclean,35640
+158,157,ZipCode,delete_as_uniclean_repair,cached_uniclean,35640
+158,157,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+217,216,CountyName,delete_as_uniclean_repair,cached_uniclean,jefferson
+222,221,CountyName,delete_as_uniclean_repair,cached_uniclean,de kalb
+224,223,CountyName,delete_as_uniclean_repair,cached_uniclean,de kalb
+239,238,CountyName,delete_as_uniclean_repair,cached_uniclean,de kalb
+248,247,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,3346366221
+253,252,CountyName,delete_as_uniclean_repair,cached_uniclean,clarke
+254,253,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10015
+315,314,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10038
+333,332,ZipCode,delete_as_uniclean_repair,cached_uniclean,36305
+333,332,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+357,356,State,delete_as_uniclean_repair,cached_uniclean,al
+421,420,ZipCode,delete_as_uniclean_repair,cached_uniclean,35150
+449,448,HospitalName,delete_as_uniclean_repair,cached_uniclean,alaska regional hospital
+449,448,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-vte-1
+450,449,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-vte-2
+451,450,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-1
+452,451,Address1,delete_as_uniclean_repair,cached_uniclean,po box 287
+452,451,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-2
+457,456,CountyName,delete_as_uniclean_repair,cached_uniclean,jefferson
+458,457,CountyName,delete_as_uniclean_repair,cached_uniclean,jefferson
+494,493,HospitalType,delete_as_uniclean_repair,cached_uniclean,acute care hospitals
+494,493,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+498,497,HospitalType,delete_as_uniclean_repair,cached_uniclean,acute care hospitals
+522,521,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+560,559,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10024
+560,559,State,delete_as_uniclean_repair,cached_uniclean,al
+573,572,State,delete_as_uniclean_repair,cached_uniclean,al
+573,572,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,3347561400
+588,587,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+593,592,State,delete_as_uniclean_repair,cached_uniclean,al
+594,593,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,3348972257
+602,601,City,delete_as_uniclean_repair,cached_uniclean,elba
+609,608,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10027
+609,608,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+613,612,MeasureName,delete_as_uniclean_repair,cached_uniclean,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery
+628,627,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10029
+647,646,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-7a
+697,696,City,delete_as_uniclean_repair,cached_uniclean,tallassee
+698,697,HospitalName,delete_as_uniclean_repair,cached_uniclean,community hospital inc
+705,704,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10034
+713,712,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+722,721,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10035
+722,721,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-7a
+723,722,CountyName,delete_as_uniclean_repair,cached_uniclean,cullman
+781,780,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10039
+781,780,Condition,delete_as_uniclean_repair,cached_uniclean,heart attack
+783,782,HospitalType,delete_as_uniclean_repair,cached_uniclean,acute care hospitals
+794,793,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10039
+849,848,HospitalType,delete_as_uniclean_repair,cached_uniclean,acute care hospitals
+852,851,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+856,855,City,delete_as_uniclean_repair,cached_uniclean,hamilton
+856,855,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2059216200
+858,857,Address1,delete_as_uniclean_repair,cached_uniclean,1256 military street south
+884,883,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2059325966
+896,895,City,delete_as_uniclean_repair,cached_uniclean,fayette
+896,895,CountyName,delete_as_uniclean_repair,cached_uniclean,fayette
+922,921,HospitalName,delete_as_uniclean_repair,cached_uniclean,riverview regional medical center
+922,921,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+936,935,Address1,delete_as_uniclean_repair,cached_uniclean,515 miranda st
+950,949,City,delete_as_uniclean_repair,cached_uniclean,georgiana
+950,949,HospitalType,delete_as_uniclean_repair,cached_uniclean,acute care hospitals
+961,960,City,delete_as_uniclean_repair,cached_uniclean,enterprise
+969,968,City,delete_as_uniclean_repair,cached_uniclean,enterprise
+977,976,HospitalType,delete_as_uniclean_repair,cached_uniclean,acute care hospitals
+986,985,City,delete_as_uniclean_repair,cached_uniclean,oneonta
+987,986,Address1,delete_as_uniclean_repair,cached_uniclean,150 gilbreath drive
+866,865,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2059216200
+882,881,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2059325966
+197,196,ZipCode,delete_as_uniclean_repair,cached_uniclean,35235
+407,406,ZipCode,delete_as_uniclean_repair,cached_uniclean,36067
+429,428,ZipCode,delete_as_uniclean_repair,cached_uniclean,35150
+500,499,ZipCode,delete_as_uniclean_repair,cached_uniclean,35960
+680,679,ZipCode,delete_as_uniclean_repair,cached_uniclean,35233
+680,679,Condition,delete_as_uniclean_repair,cached_uniclean,pneumonia
+46,45,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10005
+82,81,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10006
+214,213,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10011
+214,213,HospitalType,delete_as_uniclean_repair,cached_uniclean,acute care hospitals
+214,213,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-2
+245,244,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10015
+245,244,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-1
+274,273,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10016
+640,639,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10029
+725,724,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10035
+998,997,MeasureName,delete_as_uniclean_repair,cached_uniclean,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+563,562,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,3342938000
+563,562,MeasureName,delete_as_uniclean_repair,cached_uniclean,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery
+448,447,MeasureName,delete_as_uniclean_repair,cached_uniclean,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+448,447,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-6
+714,713,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,3342836541
+714,713,MeasureName,delete_as_uniclean_repair,cached_uniclean,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+347,346,CountyName,delete_as_uniclean_repair,cached_uniclean,houston
+347,346,MeasureName,delete_as_uniclean_repair,cached_uniclean,surgery patients whose doctors ordered treatments to prevent blood clots after certain types of surgeries
+542,541,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given aspirin at arrival
+803,802,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given aspirin at arrival
+381,380,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given aspirin at discharge
+546,545,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given beta blocker at discharge
+673,672,CountyName,delete_as_uniclean_repair,cached_uniclean,jefferson
+673,672,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given pci within 90 minutes of arrival
+474,473,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart failure patients given discharge instructions
+786,785,CountyName,delete_as_uniclean_repair,cached_uniclean,madison
+786,785,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart failure patients given an evaluation of left ventricular systolic (lvs) function
+435,434,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+435,434,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_hf-3
+651,650,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+390,389,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+390,389,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart failure patients given smoking cessation advice/counseling
+652,651,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart failure patients given smoking cessation advice/counseling
+916,915,Address1,delete_as_uniclean_repair,cached_uniclean,600 south third street
+916,915,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart failure patients given smoking cessation advice/counseling
+706,705,HospitalType,delete_as_uniclean_repair,cached_uniclean,acute care hospitals
+706,705,MeasureName,delete_as_uniclean_repair,cached_uniclean,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+817,816,MeasureName,delete_as_uniclean_repair,cached_uniclean,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+707,706,MeasureName,delete_as_uniclean_repair,cached_uniclean,pneumonia patients given the most appropriate initial antibiotic(s)
+508,507,MeasureName,delete_as_uniclean_repair,cached_uniclean,pneumonia patients assessed and given influenza vaccination
+533,532,HospitalName,delete_as_uniclean_repair,cached_uniclean,baptist medical center south
+533,532,HospitalType,delete_as_uniclean_repair,cached_uniclean,acute care hospitals
+533,532,MeasureName,delete_as_uniclean_repair,cached_uniclean,pneumonia patients assessed and given influenza vaccination
+894,893,MeasureName,delete_as_uniclean_repair,cached_uniclean,pneumonia patients assessed and given influenza vaccination
+761,760,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-2
+797,796,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-2
+568,567,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-2
+623,622,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-8a
+478,477,State,delete_as_uniclean_repair,cached_uniclean,al
+478,477,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-2
+679,678,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-3b
+556,555,Condition,delete_as_uniclean_repair,cached_uniclean,pneumonia
+556,555,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-5c
+734,733,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+870,869,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+975,974,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+240,239,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+717,716,Condition,delete_as_uniclean_repair,cached_uniclean,heart attack
+956,955,ProviderNumber,delete_as_uniclean_repair,cached_uniclean,10049
+956,955,Condition,delete_as_uniclean_repair,cached_uniclean,heart attack
+468,467,Condition,delete_as_uniclean_repair,cached_uniclean,heart attack
+696,695,HospitalType,delete_as_uniclean_repair,cached_uniclean,acute care hospitals
+696,695,Condition,delete_as_uniclean_repair,cached_uniclean,heart attack
+387,386,State,delete_as_uniclean_repair,cached_uniclean,al
+387,386,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2514717110
+387,386,Condition,delete_as_uniclean_repair,cached_uniclean,heart failure
+699,698,CountyName,delete_as_uniclean_repair,cached_uniclean,elmore
+699,698,Condition,delete_as_uniclean_repair,cached_uniclean,heart failure
+600,599,Condition,delete_as_uniclean_repair,cached_uniclean,heart failure
+401,400,Condition,delete_as_uniclean_repair,cached_uniclean,heart failure
+280,279,Condition,delete_as_uniclean_repair,cached_uniclean,heart failure
+257,256,Condition,delete_as_uniclean_repair,cached_uniclean,pneumonia
+257,256,MeasureName,delete_as_uniclean_repair,cached_uniclean,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+367,366,ZipCode,delete_as_uniclean_repair,cached_uniclean,35594
+367,366,Condition,delete_as_uniclean_repair,cached_uniclean,pneumonia
+370,369,Condition,delete_as_uniclean_repair,cached_uniclean,pneumonia
+507,506,Condition,delete_as_uniclean_repair,cached_uniclean,pneumonia
+632,631,Condition,delete_as_uniclean_repair,cached_uniclean,pneumonia
+58,57,Address1,delete_as_uniclean_repair,cached_uniclean,2505 u s highway 431 north
+58,57,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2565938310
+634,633,CountyName,delete_as_uniclean_repair,cached_uniclean,lee
+419,418,EmergencyService,delete_as_uniclean_repair,cached_uniclean,no
+580,579,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+654,653,EmergencyService,delete_as_uniclean_repair,cached_uniclean,no
+579,578,City,delete_as_uniclean_repair,cached_uniclean,valley
+579,578,CountyName,delete_as_uniclean_repair,cached_uniclean,chambers
+822,821,City,delete_as_uniclean_repair,cached_uniclean,gadsden
+265,264,Address1,delete_as_uniclean_repair,cached_uniclean,33700 highway 43
+730,729,HospitalType,delete_as_uniclean_repair,cached_uniclean,acute care hospitals
+267,266,HospitalType,delete_as_uniclean_repair,cached_uniclean,acute care hospitals
+414,413,HospitalType,delete_as_uniclean_repair,cached_uniclean,acute care hospitals
+711,710,HospitalName,delete_as_uniclean_repair,cached_uniclean,community hospital inc
+711,710,ZipCode,delete_as_uniclean_repair,cached_uniclean,36078
+767,766,HospitalType,delete_as_uniclean_repair,cached_uniclean,acutexcarexhospitals
+767,766,MeasureName,delete_as_uniclean_repair,cached_uniclean,childrenxwhoxreceivedxrelieverxmedicationxwhilexhospitalizedxforxasthma

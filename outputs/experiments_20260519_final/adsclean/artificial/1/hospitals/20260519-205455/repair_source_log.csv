@@ -1,0 +1,279 @@
+row_idx,row_pos,column,action,source,value
+2,1,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2053258100
+3,2,PhoneNumber,replace_nearby,cached_uniclean,2053258100
+4,3,ZipCode,delete_as_uniclean_repair,cached_uniclean,35233
+4,3,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2053258100
+5,4,ZipCode,replace_nearby,cached_uniclean,35233
+6,5,ZipCode,replace_nearby,cached_uniclean,35233
+7,6,ZipCode,delete_as_uniclean_repair,cached_uniclean,35233
+8,7,ZipCode,delete_as_uniclean_repair,cached_uniclean,35233
+10,9,City,delete_as_uniclean_repair,cached_uniclean,sheffield
+11,10,City,delete_as_uniclean_repair,cached_uniclean,sheffield
+13,12,HospitalName,delete_as_uniclean_repair,cached_uniclean,helen keller memorial hospital
+14,13,HospitalName,replace_nearby,cached_uniclean,helen keller memorial hospital
+14,13,Stateavg,replace_nearby,cached_uniclean,al_ami-7a
+15,14,HospitalName,replace_nearby,cached_uniclean,helen keller memorial hospital
+17,16,HospitalName,replace_nearby,cached_uniclean,helen keller memorial hospital
+17,16,PhoneNumber,replace_nearby,cached_uniclean,2563864556
+25,24,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+26,25,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,3347938701
+37,36,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,3347938701
+43,42,HospitalName,delete_as_uniclean_repair,cached_uniclean,southeast alabama medical center
+44,43,HospitalName,delete_as_uniclean_repair,cached_uniclean,southeast alabama medical center
+66,65,HospitalName,delete_as_uniclean_repair,cached_uniclean,marshall medical center south
+70,69,City,delete_as_uniclean_repair,cached_uniclean,florence
+70,69,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2567688400
+74,73,ZipCode,delete_as_uniclean_repair,cached_uniclean,35631
+80,79,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2567688400
+92,91,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-6
+100,99,Address1,delete_as_uniclean_repair,cached_uniclean,702 n main st
+108,107,HospitalName,delete_as_uniclean_repair,cached_uniclean,mizell memorial hospital
+108,107,City,delete_as_uniclean_repair,cached_uniclean,opp
+108,107,EmergencyService,delete_as_uniclean_repair,cached_uniclean,no
+116,115,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-4
+121,120,HospitalName,delete_as_uniclean_repair,cached_uniclean,crenshaw community hospital
+121,120,State,delete_as_uniclean_repair,cached_uniclean,al
+122,121,HospitalName,delete_as_uniclean_repair,cached_uniclean,crenshaw community hospital
+123,122,HospitalName,delete_as_uniclean_repair,cached_uniclean,crenshaw community hospital
+125,124,HospitalName,delete_as_uniclean_repair,cached_uniclean,crenshaw community hospital
+126,125,HospitalName,delete_as_uniclean_repair,cached_uniclean,crenshaw community hospital
+127,126,HospitalName,delete_as_uniclean_repair,cached_uniclean,crenshaw community hospital
+127,126,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+132,131,City,delete_as_uniclean_repair,cached_uniclean,luverne
+143,142,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,3343353374
+145,144,City,delete_as_uniclean_repair,cached_uniclean,hartselle
+147,146,Address1,replace_nearby,cached_uniclean,201 pine street northwest
+149,148,HospitalName,replace_nearby,cached_uniclean,hartselle medical center
+157,156,City,delete_as_uniclean_repair,cached_uniclean,hartselle
+157,156,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+169,167,HospitalName,delete_as_uniclean_repair,cached_uniclean,hartselle medical center
+181,179,HospitalName,delete_as_uniclean_repair,cached_uniclean,marshall medical center north
+181,179,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-2
+186,184,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2565718000
+200,198,ZipCode,delete_as_uniclean_repair,cached_uniclean,35235
+204,202,State,delete_as_uniclean_repair,cached_uniclean,al
+216,214,HospitalName,delete_as_uniclean_repair,cached_uniclean,st vincents east
+217,215,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2058383122
+219,217,Address1,delete_as_uniclean_repair,cached_uniclean,50 medical park east drive
+225,223,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-7a
+230,228,CountyName,delete_as_uniclean_repair,cached_uniclean,de kalb
+241,239,CountyName,delete_as_uniclean_repair,cached_uniclean,de kalb
+244,242,ZipCode,delete_as_uniclean_repair,cached_uniclean,35968
+245,243,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given aspirin at arrival
+246,244,State,delete_as_uniclean_repair,cached_uniclean,al
+255,252,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,3346366221
+255,252,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart failure patients given smoking cessation advice/counseling
+259,256,State,delete_as_uniclean_repair,cached_uniclean,al
+259,256,MeasureName,delete_as_uniclean_repair,cached_uniclean,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+263,260,MeasureName,delete_as_uniclean_repair,cached_uniclean,surgery patients who were given an antibiotic at the right time (within one hour before surgery) to help prevent infection
+264,261,MeasureName,delete_as_uniclean_repair,cached_uniclean,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+270,267,Address1,delete_as_uniclean_repair,cached_uniclean,1000 first street north
+272,269,HospitalName,delete_as_uniclean_repair,cached_uniclean,shelby baptist medical center
+276,272,HospitalName,delete_as_uniclean_repair,cached_uniclean,shelby baptist medical center
+280,276,ZipCode,delete_as_uniclean_repair,cached_uniclean,35007
+288,284,CountyName,delete_as_uniclean_repair,cached_uniclean,shelby
+295,291,ZipCode,delete_as_uniclean_repair,cached_uniclean,35233
+305,300,State,delete_as_uniclean_repair,cached_uniclean,al
+307,301,State,delete_as_uniclean_repair,cached_uniclean,al
+308,302,State,delete_as_uniclean_repair,cached_uniclean,al
+309,303,State,delete_as_uniclean_repair,cached_uniclean,al
+314,308,Address1,delete_as_uniclean_repair,cached_uniclean,301 east 18th st
+314,308,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given aspirin at arrival
+321,315,CountyName,delete_as_uniclean_repair,cached_uniclean,calhoun
+339,333,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-6
+346,340,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+348,342,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,3347935000
+370,364,ZipCode,delete_as_uniclean_repair,cached_uniclean,35594
+385,379,ZipCode,delete_as_uniclean_repair,cached_uniclean,36617
+388,382,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart failure patients given an evaluation of left ventricular systolic (lvs) function
+395,389,Address1,delete_as_uniclean_repair,cached_uniclean,124 s memorial dr
+397,391,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,3343614267
+403,397,State,delete_as_uniclean_repair,cached_uniclean,al
+403,397,CountyName,delete_as_uniclean_repair,cached_uniclean,autauga
+406,400,CountyName,delete_as_uniclean_repair,cached_uniclean,autauga
+414,408,State,delete_as_uniclean_repair,cached_uniclean,la
+424,418,CountyName,delete_as_uniclean_repair,cached_uniclean,talladega
+446,440,HospitalName,delete_as_uniclean_repair,cached_uniclean,alaska regional hospital
+446,440,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-3
+450,444,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,9072761131
+450,444,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-vte-2
+451,445,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,9075436300
+451,445,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-1
+452,446,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-2
+463,456,Address1,delete_as_uniclean_repair,cached_uniclean,1300 south montgomery avenue
+463,456,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2563864556
+463,456,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+465,458,Address1,delete_as_uniclean_repair,cached_uniclean,1300 south montgomery avenue
+465,458,City,delete_as_uniclean_repair,cached_uniclean,sheffield
+465,458,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2563864556
+465,458,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+465,458,MeasureName,delete_as_uniclean_repair,cached_uniclean,surgery patients whose doctors ordered treatments to prevent blood clots after certain types of surgeries
+493,486,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+495,488,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+521,514,State,delete_as_uniclean_repair,cached_uniclean,al
+532,525,ZipCode,delete_as_uniclean_repair,cached_uniclean,36116
+542,535,State,delete_as_uniclean_repair,cached_uniclean,al
+547,540,HospitalName,delete_as_uniclean_repair,cached_uniclean,jackson hospital & clinic inc
+547,540,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-7a
+553,546,ZipCode,delete_as_uniclean_repair,cached_uniclean,36106
+554,547,MeasureName,delete_as_uniclean_repair,cached_uniclean,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+559,552,City,delete_as_uniclean_repair,cached_uniclean,montgomery
+568,561,CountyName,delete_as_uniclean_repair,cached_uniclean,chambers
+592,585,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given aspirin at arrival
+594,587,HospitalName,delete_as_uniclean_repair,cached_uniclean,elba general hospital
+595,588,CountyName,delete_as_uniclean_repair,cached_uniclean,coffee
+595,588,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+599,592,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+602,595,CountyName,delete_as_uniclean_repair,cached_uniclean,coffee
+604,597,MeasureName,delete_as_uniclean_repair,cached_uniclean,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+618,611,HospitalName,delete_as_uniclean_repair,cached_uniclean,east alabama medical center and snf
+629,622,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-3b
+639,632,City,delete_as_uniclean_repair,cached_uniclean,opelika
+641,634,Address1,delete_as_uniclean_repair,cached_uniclean,2000 pepperell parkway
+641,634,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-vte-2
+645,638,State,delete_as_uniclean_repair,cached_uniclean,al
+649,642,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2563572111
+651,644,EmergencyService,delete_as_uniclean_repair,cached_uniclean,no
+653,646,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2563572111
+665,658,City,delete_as_uniclean_repair,cached_uniclean,wedowee
+665,658,MeasureName,delete_as_uniclean_repair,cached_uniclean,surgery patients whose doctors ordered treatments to prevent blood clots after certain types of surgeries
+668,661,City,delete_as_uniclean_repair,cached_uniclean,birmingham
+668,661,ZipCode,delete_as_uniclean_repair,cached_uniclean,35233
+671,664,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+698,691,ZipCode,delete_as_uniclean_repair,cached_uniclean,36078
+708,701,CountyName,delete_as_uniclean_repair,cached_uniclean,elmore
+710,703,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-1
+712,705,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-3
+717,710,Address1,delete_as_uniclean_repair,cached_uniclean,1912 alabama highway 157
+717,710,City,delete_as_uniclean_repair,cached_uniclean,cullman
+719,712,HospitalName,delete_as_uniclean_repair,cached_uniclean,cullman regional medical center
+723,716,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given pci within 90 minutes of arrival
+732,725,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-6
+739,731,State,delete_as_uniclean_repair,cached_uniclean,al
+744,736,City,delete_as_uniclean_repair,cached_uniclean,andalusia
+756,748,CountyName,delete_as_uniclean_repair,cached_uniclean,covington
+758,750,Address1,delete_as_uniclean_repair,cached_uniclean,849 south three notch street
+760,752,EmergencyService,delete_as_uniclean_repair,cached_uniclean,no
+760,752,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-1
+768,760,Address1,delete_as_uniclean_repair,cached_uniclean,301 east 18th st
+768,760,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+768,760,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-1
+773,765,Address1,delete_as_uniclean_repair,cached_uniclean,301 east 18th st
+803,795,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given aspirin at arrival
+807,799,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-5
+828,818,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given aspirin at arrival
+829,819,City,delete_as_uniclean_repair,cached_uniclean,clanton
+837,827,CountyName,delete_as_uniclean_repair,cached_uniclean,chilton
+844,834,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-7
+847,837,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-2
+849,839,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+852,842,HospitalName,delete_as_uniclean_repair,cached_uniclean,chilton medical center
+857,847,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2059216200
+860,850,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_hf-1
+864,854,City,delete_as_uniclean_repair,cached_uniclean,hamilton
+869,859,ZipCode,delete_as_uniclean_repair,cached_uniclean,35570
+870,860,HospitalName,delete_as_uniclean_repair,cached_uniclean,marion regional medical center
+880,870,HospitalName,delete_as_uniclean_repair,cached_uniclean,fayette medical center
+880,870,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+880,870,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+883,873,ZipCode,delete_as_uniclean_repair,cached_uniclean,35555
+888,878,HospitalName,delete_as_uniclean_repair,cached_uniclean,fayette medical center
+896,886,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-1
+899,889,ZipCode,delete_as_uniclean_repair,cached_uniclean,35555
+903,893,State,delete_as_uniclean_repair,cached_uniclean,al
+945,935,MeasureName,delete_as_uniclean_repair,cached_uniclean,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+953,943,MeasureName,delete_as_uniclean_repair,cached_uniclean,surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor)
+954,944,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,3343762205
+958,948,Address1,delete_as_uniclean_repair,cached_uniclean,400 n edwards street
+960,950,Address1,delete_as_uniclean_repair,cached_uniclean,400 n edwards street
+960,950,State,delete_as_uniclean_repair,cached_uniclean,al
+960,950,CountyName,delete_as_uniclean_repair,cached_uniclean,coffee
+963,953,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart failure patients given discharge instructions
+974,964,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+992,982,State,delete_as_uniclean_repair,cached_uniclean,al
+993,983,MeasureName,delete_as_uniclean_repair,cached_uniclean,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+58,57,HospitalName,delete_as_uniclean_repair,cached_uniclean,marshall medical center south
+90,89,HospitalName,delete_as_uniclean_repair,cached_uniclean,eliza coffee memorial hospital
+120,119,HospitalName,delete_as_uniclean_repair,cached_uniclean,crenshaw community hospital
+120,119,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given aspirin at arrival
+124,123,HospitalName,delete_as_uniclean_repair,cached_uniclean,crenshaw community hospital
+155,154,HospitalName,delete_as_uniclean_repair,cached_uniclean,hartselle medical center
+155,154,City,delete_as_uniclean_repair,cached_uniclean,hartselle
+155,154,Condition,delete_as_uniclean_repair,cached_uniclean,heart failure
+170,168,HospitalName,delete_as_uniclean_repair,cached_uniclean,marshall medical center north
+171,169,HospitalName,delete_as_uniclean_repair,cached_uniclean,marshall medical center north
+173,171,HospitalName,delete_as_uniclean_repair,cached_uniclean,marshall medical center north
+180,178,HospitalName,delete_as_uniclean_repair,cached_uniclean,marshall medical center north
+193,191,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+197,195,Condition,delete_as_uniclean_repair,cached_uniclean,heart attack
+213,211,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+234,232,Address1,delete_as_uniclean_repair,cached_uniclean,200 med center drive
+257,254,HospitalName,delete_as_uniclean_repair,cached_uniclean,southwest alabama medical center
+257,254,MeasureName,delete_as_uniclean_repair,cached_uniclean,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+285,281,CountyName,delete_as_uniclean_repair,cached_uniclean,shelby
+286,282,CountyName,delete_as_uniclean_repair,cached_uniclean,shelby
+292,288,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+323,317,CountyName,delete_as_uniclean_repair,cached_uniclean,calhoun
+336,330,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,3347935000
+343,337,MeasureName,delete_as_uniclean_repair,cached_uniclean,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+349,343,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given aspirin at arrival
+362,356,State,delete_as_uniclean_repair,cached_uniclean,al
+369,363,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+377,371,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+417,411,CountyName,delete_as_uniclean_repair,cached_uniclean,talladega
+419,413,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-5
+428,422,HospitalName,delete_as_uniclean_repair,cached_uniclean,coosa valley medical center
+433,427,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_hf-1
+434,428,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_hf-2
+435,429,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_hf-3
+436,430,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_hf-4
+437,431,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-2
+438,432,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-3b
+439,433,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-4
+440,434,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-5c
+441,435,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-6
+442,436,City,delete_as_uniclean_repair,cached_uniclean,anchorage
+442,436,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-7
+443,437,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-card-2
+444,438,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-1
+445,439,MeasureName,delete_as_uniclean_repair,cached_uniclean,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+445,439,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-2
+447,441,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-4
+448,442,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+448,442,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-6
+449,443,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-vte-1
+462,455,Address1,delete_as_uniclean_repair,cached_uniclean,1300 south montgomery avenue
+462,455,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+464,457,Address1,delete_as_uniclean_repair,cached_uniclean,1300 south montgomery avenue
+464,457,City,delete_as_uniclean_repair,cached_uniclean,sheffield
+464,457,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+464,457,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+466,459,Address1,delete_as_uniclean_repair,cached_uniclean,1300 south montgomery avenue
+466,459,City,delete_as_uniclean_repair,cached_uniclean,sheffield
+466,459,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2563864556
+466,459,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+475,468,Address1,delete_as_uniclean_repair,cached_uniclean,126 hospital ave
+475,468,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+478,471,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-2
+483,476,Condition,delete_as_uniclean_repair,cached_uniclean,pneumonia
+489,482,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+514,507,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+516,509,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-vte-2
+539,532,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+562,555,MeasureName,delete_as_uniclean_repair,cached_uniclean,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery)
+564,557,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+567,560,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given aspirin at arrival
+567,560,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-1
+579,572,Condition,delete_as_uniclean_repair,cached_uniclean,pneumonia
+579,572,MeasureName,delete_as_uniclean_repair,cached_uniclean,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics
+589,582,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+628,621,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-2
+643,636,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given aspirin at discharge
+667,660,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-1
+669,662,Condition,delete_as_uniclean_repair,cached_uniclean,heart attack
+694,687,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-3
+731,724,MeasureName,delete_as_uniclean_repair,cached_uniclean,pneumonia patients given initial antibiotic(s) within 6 hours after arrival
+853,843,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given aspirin at arrival
+878,868,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given aspirin at arrival
+956,946,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given aspirin at arrival
+999,988,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention

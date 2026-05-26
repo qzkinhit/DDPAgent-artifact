@@ -1,0 +1,9 @@
+{
+  "dataset": "tax",
+  "scenario": "artificial",
+  "error_rate": "175",
+  "cleaner_profile": "tax",
+  "candidate_repairs": 8374,
+  "cached": true,
+  "cleaned_csv": "result_assets/UnicleanResult/Uniclean_cleaned_data/artificial_error_cleaned_data/5_tax_175_cleaned_by_uniclean.csv"
+}

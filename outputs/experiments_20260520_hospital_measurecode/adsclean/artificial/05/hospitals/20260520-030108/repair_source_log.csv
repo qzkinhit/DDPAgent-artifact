@@ -1,0 +1,58 @@
+row_idx,row_pos,column,action,source,value
+59,58,HospitalName,replace_nearby,cached_uniclean,marshall medical center south
+92,91,ZipCode,repair_value,cached_uniclean,35631
+169,168,City,repair_value,cached_uniclean,hartselle
+180,179,Address1,replace_nearby,cached_uniclean,8000 alabama highway 69
+180,179,EmergencyService,replace_nearby,cached_uniclean,yes
+189,188,HospitalName,replace_nearby,cached_uniclean,marshall medical center north
+208,207,City,repair_value,cached_uniclean,birmingham
+284,283,State,replace_nearby,cached_uniclean,al
+392,391,HospitalOwner,repair_value,cached_uniclean,government - state
+422,421,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_hf-1
+442,441,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-7
+445,444,Stateavg,repair_value,cached_uniclean,al_scip-inf-2
+474,473,CountyName,repair_value,cached_uniclean,dale
+482,481,HospitalName,replace_nearby,cached_uniclean,dale medical center
+484,483,CountyName,replace_nearby,cached_uniclean,dale
+485,484,HospitalOwner,repair_value,cached_uniclean,government - hospital district or authority
+485,484,Condition,repair_value,cached_uniclean,surgical infection prevention
+488,487,City,repair_value,cached_uniclean,ozark
+502,501,Address1,replace_nearby,cached_uniclean,400 northwood dr
+502,501,PhoneNumber,replace_nearby,cached_uniclean,2569275531
+522,521,Stateavg,replace_nearby,cached_uniclean,al_ami-7a
+526,525,Address1,replace_nearby,cached_uniclean,2105 east south boulevard
+557,556,HospitalOwner,repair_value,cached_uniclean,voluntary non-profit - private
+558,557,CountyName,replace_nearby,cached_uniclean,montgomery
+569,568,State,replace_nearby,cached_uniclean,al
+587,586,State,replace_nearby,cached_uniclean,al
+597,596,PhoneNumber,replace_nearby,cached_uniclean,3348972257
+609,608,ZipCode,replace_nearby,cached_uniclean,36323
+619,618,MeasureName,replace_nearby,cached_uniclean,heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd)
+665,664,HospitalName,replace_nearby,cached_uniclean,wedowee hospital
+693,692,City,replace_nearby,cached_uniclean,tallassee
+697,696,EmergencyService,replace_nearby,cached_uniclean,no
+727,726,CountyName,replace_nearby,cached_uniclean,cullman
+740,739,Stateavg,replace_nearby,cached_uniclean,al_scip-vte-1
+754,753,PhoneNumber,replace_nearby,cached_uniclean,3342228466
+772,771,State,replace_nearby,cached_uniclean,al
+778,777,Address1,replace_nearby,cached_uniclean,101 sivley rd
+818,817,Stateavg,replace_nearby,cached_uniclean,al_pn-6
+819,818,Address1,replace_nearby,cached_uniclean,1007 goodyear avenue
+833,832,Stateavg,replace_nearby,cached_uniclean,al_ami-7a
+871,870,ZipCode,replace_nearby,cached_uniclean,35570
+890,889,HospitalName,replace_nearby,cached_uniclean,fayette medical center
+920,919,EmergencyService,replace_nearby,cached_uniclean,yes
+954,953,HospitalOwner,replace_nearby,cached_uniclean,voluntary non-profit - private
+958,957,City,replace_nearby,cached_uniclean,enterprise
+958,957,ZipCode,replace_nearby,cached_uniclean,36330
+974,973,Stateavg,replace_nearby,cached_uniclean,al_scip-inf-1
+977,976,PhoneNumber,replace_nearby,cached_uniclean,3343470584
+985,984,ZipCode,replace_nearby,cached_uniclean,35121
+296,295,HospitalName,delete_as_uniclean_repair,cached_uniclean,callahan eye foundation hospital
+298,297,HospitalName,delete_as_uniclean_repair,cached_uniclean,callahan eye foundation hospital
+298,297,City,delete_as_uniclean_repair,cached_uniclean,birmingham
+300,299,Address1,delete_as_uniclean_repair,cached_uniclean,1720 university blvd
+440,439,Address1,delete_as_uniclean_repair,cached_uniclean,2801 debarr road
+440,439,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-5c
+799,798,HospitalName,replace_nearby,cached_uniclean,huntsville hospital
+981,980,Address1,replace_nearby,cached_uniclean,150 gilbreath drive

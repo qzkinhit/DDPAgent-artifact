@@ -1,0 +1,86 @@
+row_idx,row_pos,column,action,source,value
+3,2,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,2053258100
+9,8,HospitalName,replace_nearby,cached_uniclean,helen keller memorial hospital
+10,9,HospitalOwner,replace_nearby,cached_uniclean,government - hospital district or authority
+12,11,Address1,delete_as_uniclean_repair,cached_uniclean,1300 south montgomery avenue
+21,20,HospitalOwner,delete_as_uniclean_repair,cached_uniclean,government - hospital district or authority
+23,22,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+39,38,MeasureName,delete_as_uniclean_repair,cached_uniclean,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+40,39,MeasureName,delete_as_uniclean_repair,cached_uniclean,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery)
+41,40,Condition,delete_as_uniclean_repair,cached_uniclean,surgical infection prevention
+44,43,PhoneNumber,delete_as_uniclean_repair,cached_uniclean,3347938701
+45,44,HospitalOwner,delete_as_uniclean_repair,cached_uniclean,government - hospital district or authority
+60,59,MeasureName,delete_as_uniclean_repair,cached_uniclean,pneumonia patients given the most appropriate initial antibiotic(s)
+63,62,PhoneNumber,repair_value,cached_uniclean,2565938310
+66,65,Condition,repair_value,cached_uniclean,surgical infection prevention
+89,88,Address1,replace_nearby,cached_uniclean,205 marengo street
+91,90,HospitalName,repair_value,cached_uniclean,eliza coffee memorial hospital
+95,94,ZipCode,repair_value,cached_uniclean,36467
+103,102,ZipCode,delete_as_uniclean_repair,cached_uniclean,36467
+130,129,HospitalName,repair_value,cached_uniclean,crenshaw community hospital
+136,135,HospitalName,replace_nearby,cached_uniclean,crenshaw community hospital
+142,141,HospitalName,repair_value,cached_uniclean,crenshaw community hospital
+150,149,State,repair_value,cached_uniclean,al
+207,206,HospitalOwner,repair_value,cached_uniclean,voluntary non-profit - private
+226,225,HospitalOwner,repair_value,cached_uniclean,voluntary non-profit - church
+239,238,Condition,repair_value,cached_uniclean,surgical infection prevention
+244,243,CountyName,repair_value,cached_uniclean,de kalb
+248,247,City,repair_value,cached_uniclean,thomasville
+249,248,ZipCode,delete_as_uniclean_repair,cached_uniclean,36784
+255,254,Condition,delete_as_uniclean_repair,cached_uniclean,heart failure
+271,270,HospitalName,repair_value,cached_uniclean,shelby baptist medical center
+282,281,CountyName,repair_value,cached_uniclean,shelby
+291,290,HospitalName,repair_value,cached_uniclean,shelby baptist medical center
+296,295,ZipCode,repair_value,cached_uniclean,35233
+297,296,City,repair_value,cached_uniclean,birmingham
+302,301,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_hf-1
+305,304,HospitalName,delete_as_uniclean_repair,cached_uniclean,callahan eye foundation hospital
+306,305,HospitalName,replace_nearby,cached_uniclean,callahan eye foundation hospital
+309,308,EmergencyService,repair_value,cached_uniclean,yes
+311,310,State,repair_value,cached_uniclean,al
+321,320,Address1,repair_value,cached_uniclean,301 east 18th st
+394,393,City,replace_nearby,cached_uniclean,prattville
+398,397,MeasureName,delete_as_uniclean_repair,cached_uniclean,heart attack patients given pci within 90 minutes of arrival
+402,401,PhoneNumber,replace_nearby,cached_uniclean,3343614267
+421,420,ZipCode,replace_nearby,cached_uniclean,35150
+433,432,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_hf-1
+434,433,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_hf-2
+435,434,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_hf-3
+436,435,Stateavg,repair_value,cached_uniclean,al_hf-4
+437,436,Stateavg,repair_value,cached_uniclean,al_pn-2
+438,437,Stateavg,repair_value,cached_uniclean,al_pn-3b
+439,438,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-4
+440,439,Stateavg,repair_value,cached_uniclean,al_pn-5c
+441,440,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-6
+442,441,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_pn-7
+443,442,State,repair_value,cached_uniclean,ak
+443,442,Stateavg,repair_value,cached_uniclean,al_scip-card-2
+444,443,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-1
+445,444,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-2
+447,446,Stateavg,repair_value,cached_uniclean,al_scip-inf-4
+448,447,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-inf-6
+449,448,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-vte-1
+450,449,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_scip-vte-2
+451,450,Stateavg,repair_value,cached_uniclean,al_ami-1
+452,451,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-2
+494,493,CountyName,repair_value,cached_uniclean,cherokee
+500,499,MeasureName,replace_nearby,cached_uniclean,heart failure patients given an evaluation of left ventricular systolic (lvs) function
+503,502,Address1,replace_nearby,cached_uniclean,400 northwood dr
+541,540,Stateavg,replace_nearby,cached_uniclean,al_scip-vte-2
+597,596,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-7a
+742,741,PhoneNumber,replace_nearby,cached_uniclean,3342228466
+779,778,Stateavg,delete_as_uniclean_repair,cached_uniclean,al_ami-2
+793,792,ZipCode,replace_nearby,cached_uniclean,35801
+874,873,Address1,replace_nearby,cached_uniclean,1256 military street south
+896,895,EmergencyService,replace_nearby,cached_uniclean,yes
+987,986,HospitalName,delete_as_uniclean_repair,cached_uniclean,st vincents blount
+356,355,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+404,403,ZipCode,delete_as_uniclean_repair,cached_uniclean,36067
+480,479,HospitalOwner,delete_as_uniclean_repair,cached_uniclean,government - hospital district or authority
+545,544,ZipCode,delete_as_uniclean_repair,cached_uniclean,36106
+579,578,EmergencyService,delete_as_uniclean_repair,cached_uniclean,yes
+580,579,HospitalName,delete_as_uniclean_repair,cached_uniclean,g h lanier memorial hospital
+628,627,ZipCode,delete_as_uniclean_repair,cached_uniclean,36801
+682,681,CountyName,delete_as_uniclean_repair,cached_uniclean,jefferson
+729,728,City,delete_as_uniclean_repair,cached_uniclean,cullman
+761,760,City,delete_as_uniclean_repair,cached_uniclean,andalusia

@@ -1,0 +1,14 @@
+row_idx,row_pos,column,action,source,value
+19,15,journal_issn,repair_value,cached_uniclean,68-Jan
+132,96,journal_issn,repair_value,cached_uniclean,37-Feb
+747,476,journal_title,replace_nearby,cached_uniclean,Ann Reum Dis
+747,476,journal_issn,replace_nearby,cached_uniclean,67-Mar
+236,160,journal_issn,replace_nearby,cached_uniclean,47-Jan
+392,257,journal_issn,replace_nearby,cached_uniclean,62-Feb
+645,416,journal_issn,replace_nearby,cached_uniclean,55-Jan
+659,426,journal_title,replace_nearby,cached_uniclean,rStroke; a journal of cerebral circulation
+691,444,journal_issn,replace_nearby,cached_uniclean,60-Sep
+705,452,journal_title,replace_nearby,cached_uniclean,BioMed research international
+849,547,journal_issn,replace_nearby,cached_uniclean,67-Mar
+910,585,journal_title,replace_nearby,cached_uniclean,Cancer
+984,632,journal_issn,replace_nearby,cached_uniclean,65-Feb

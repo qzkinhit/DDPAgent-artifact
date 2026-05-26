@@ -1,0 +1,212 @@
+row_idx,row_pos,column,action,source,value
+7,6,brewery_name,repair_value,cached_uniclean,18th Street Brewery
+11,10,city,repair_value,cached_uniclean,Gary
+30,29,brewery_name,replace_nearby,cached_uniclean,21st Amendment Brewery
+42,41,brewery_name,repair_value,cached_uniclean,3 Daughters Brewing
+59,58,city,replace_nearby,cached_uniclean,Gig Harbor
+80,79,brewery_name,repair_value,cached_uniclean,Against the Grain Brewery
+107,106,brewery_name,replace_nearby,cached_uniclean,Anderson Valley Brewing Company
+196,195,state,replace_nearby,cached_uniclean,OR
+199,198,brewery_name,replace_nearby,cached_uniclean,Base Camp Brewing Co.
+235,234,city,repair_value,cached_uniclean,Alpine
+244,243,state,repair_value,cached_uniclean,MA
+261,260,city,repair_value,cached_uniclean,Missoula
+319,318,brewery_name,replace_nearby,cached_uniclean,Blue Owl Brewing
+390,389,brewery_name,repair_value,cached_uniclean,Brewery Vivant
+391,390,brewery_name,repair_value,cached_uniclean,Brewery Vivant
+392,391,brewery_name,repair_value,cached_uniclean,Brewery Vivant
+393,392,brewery_name,repair_value,cached_uniclean,Brewery Vivant
+394,393,brewery_name,repair_value,cached_uniclean,Brewery Vivant
+395,394,brewery_name,repair_value,cached_uniclean,Brewery Vivant
+396,395,brewery_name,repair_value,cached_uniclean,Brewery Vivant
+397,396,brewery_name,repair_value,cached_uniclean,Brewery Vivant
+398,397,brewery_name,repair_value,cached_uniclean,Brewery Vivant
+399,398,brewery_name,repair_value,cached_uniclean,Brewery Vivant
+400,399,brewery_name,repair_value,cached_uniclean,Brewery Vivant
+401,400,brewery_name,repair_value,cached_uniclean,Brewery Vivant
+402,401,brewery_name,repair_value,cached_uniclean,Brewery Vivant
+403,402,state,repair_value,cached_uniclean,MI
+408,407,city,replace_nearby,cached_uniclean,Grand Rapids
+422,421,city,repair_value,cached_uniclean,Grand Rapids
+426,425,state,repair_value,cached_uniclean,MI
+427,426,city,repair_value,cached_uniclean,Grand Rapids
+428,427,city,repair_value,cached_uniclean,Grand Rapids
+429,428,city,repair_value,cached_uniclean,Grand Rapids
+430,429,city,repair_value,cached_uniclean,Grand Rapids
+431,430,city,repair_value,cached_uniclean,Grand Rapids
+432,431,city,repair_value,cached_uniclean,Grand Rapids
+433,432,city,repair_value,cached_uniclean,Grand Rapids
+434,433,city,repair_value,cached_uniclean,Grand Rapids
+435,434,city,repair_value,cached_uniclean,Grand Rapids
+436,435,city,repair_value,cached_uniclean,Grand Rapids
+437,436,city,repair_value,cached_uniclean,Grand Rapids
+438,437,city,repair_value,cached_uniclean,Grand Rapids
+439,438,city,repair_value,cached_uniclean,Grand Rapids
+440,439,city,repair_value,cached_uniclean,Grand Rapids
+441,440,city,repair_value,cached_uniclean,Grand Rapids
+442,441,city,repair_value,cached_uniclean,Grand Rapids
+443,442,city,repair_value,cached_uniclean,Grand Rapids
+444,443,city,repair_value,cached_uniclean,Grand Rapids
+445,444,city,repair_value,cached_uniclean,Grand Rapids
+446,445,city,repair_value,cached_uniclean,Grand Rapids
+447,446,city,repair_value,cached_uniclean,Grand Rapids
+448,447,city,repair_value,cached_uniclean,Grand Rapids
+449,448,city,repair_value,cached_uniclean,Grand Rapids
+450,449,city,repair_value,cached_uniclean,Grand Rapids
+456,455,state,repair_value,cached_uniclean,AnK
+496,495,city,repair_value,cached_uniclean,Charleston
+503,502,brewery_name,replace_nearby,cached_uniclean,COOP Ale Works
+548,547,city,repair_value,cached_uniclean,Pittsboro
+604,602,brewery_name,repair_value,cached_uniclean,Cigar City Brewing Company
+605,603,city,repair_value,cached_uniclean,Tampa
+615,613,brewery_name,replace_nearby,cached_uniclean,Cigar City Brewing Company
+650,648,state,replace_nearby,cached_uniclean,CO
+680,678,city,replace_nearby,cached_uniclean,Portland
+687,685,state,repair_value,cached_uniclean,DC
+697,695,state,replace_nearby,cached_uniclean,TX
+701,699,city,replace_nearby,cached_uniclean,Dallas
+703,701,brewery_name,replace_nearby,cached_uniclean,Deep Ellum Brewing Company
+758,756,brewery_name,repair_value,cached_uniclean,Epic Brewing
+767,765,city,repair_value,cached_uniclean,Brooklyn
+777,775,brewery_name,replace_nearby,cached_uniclean,Fate Brewing Company
+806,804,state,replace_nearby,cached_uniclean,CA
+825,823,state,repair_value,cached_uniclean,OR
+871,867,city,replace_nearby,cached_uniclean,San Antonio
+911,907,state,replace_nearby,cached_uniclean,AL
+920,916,state,replace_nearby,cached_uniclean,IL
+964,960,state,repair_value,cached_uniclean,IA
+971,967,brewery_name,replace_nearby,cached_uniclean,Great River Brewery
+991,987,city,replace_nearby,cached_uniclean,Westerly
+1035,1031,state,repair_value,cached_uniclean,HI
+1055,1051,city,replace_nearby,cached_uniclean,Seattle
+1105,1101,state,replace_nearby,cached_uniclean,MN
+1129,1125,city,repair_value,cached_uniclean,Athens
+1143,1139,brewery_name,repair_value,cached_uniclean,Kalona Brcewing Company
+1146,1142,city,replace_nearby,cached_uniclean,Houston
+1160,1156,state,repair_value,cached_uniclean,AK
+1161,1157,state,repair_value,cached_uniclean,AK
+1168,1164,city,replace_nearby,cached_uniclean,Houghton
+1175,1171,state,repair_value,cached_uniclean,K
+1179,1175,state,repair_value,cached_uniclean,K
+1212,1208,city,replace_nearby,cached_uniclean,York
+1260,1256,city,repair_value,cached_uniclean,Philadelphia
+1296,1292,state,repair_value,cached_uniclean,NY
+1306,1302,brewery_name,repair_value,cached_uniclean,Maui Brewing Company
+1326,1322,state,replace_nearby,cached_uniclean,FL
+1328,1324,brewery_name,replace_nearby,cached_uniclean,Miami Brewing Company
+1329,1325,state,replace_nearby,cached_uniclean,FL
+1347,1343,state,replace_nearby,cached_uniclean,IL
+1370,1366,brewery_name,repair_value,cached_uniclean,Minhas Craft Brewery
+1379,1375,city,repair_value,cached_uniclean,Moab
+1403,1399,brewery_name,replace_nearby,cached_uniclean,Morgan Street Brewery
+1411,1407,city,repair_value,cached_uniclean,Lake Havasu City
+1432,1428,state,repair_value,cached_uniclean,OR
+1450,1446,brewery_name,repair_value,cached_uniclean,New Belgium Brewing Company
+1463,1459,state,repair_value,cached_uniclean,CT
+1495,1491,city,replace_nearby,cached_uniclean,Minneapolis
+1498,1494,state,replace_nearby,cached_uniclean,MN
+1550,1546,brewery_name,repair_value,cached_uniclean,Orpheus Brewing
+1582,1577,city,replace_nearby,cached_uniclean,Longmont
+1584,1579,brewery_name,replace_nearby,cached_uniclean,Oskar Blues Brewery
+1636,1631,state,repair_value,cached_uniclean,TX
+1649,1644,brewery_name,repair_value,cached_uniclean,Pine Street Brewery
+1697,1692,state,replace_nearby,cached_uniclean,MD
+1721,1716,brewery_name,replace_nearby,cached_uniclean,Revolution Brewing Company
+1741,1736,state,repair_value,cached_uniclean,OC
+1815,1810,state,repair_value,cached_uniclean,NM
+1842,1837,brewery_name,repair_value,cached_uniclean,Shipyard Brewing Company
+1842,1837,state,repair_value,cached_uniclean,ME
+1874,1869,brewery_name,replace_nearby,cached_uniclean,Sixpoint Craft Ales
+1874,1869,state,replace_nearby,cached_uniclean,NY
+1882,1877,brewery_name,repair_value,cached_uniclean,Ska Brewing Company
+1915,1910,state,repair_value,cached_uniclean,WY
+1925,1920,city,replace_nearby,cached_uniclean,Boise
+1942,1937,state,replace_nearby,cached_uniclean,TX
+1955,1950,city,replace_nearby,cached_uniclean,Conroe
+1988,1983,state,replace_nearby,cached_uniclean,VA
+1989,1984,state,replace_nearby,cached_uniclean,VA
+2009,2004,brewery_name,repair_value,cached_uniclean,Stevens Point Brewery
+2057,2052,city,repair_value,cached_uniclean,Indianapolis
+2071,2066,brewery_name,repair_value,cached_uniclean,kSunken City Brewing Company
+2075,2070,city,replace_nearby,cached_uniclean,Brooklyn Center
+2127,2122,city,repair_value,cached_uniclean,Bridgman
+2142,2137,state,repair_value,cached_uniclean,VT
+2171,2166,city,repair_value,cached_uniclean,Cold Spring
+2214,2209,city,repair_value,cached_uniclean,Hershey
+2226,2221,city,replace_nearby,cached_uniclean,Seattle
+2235,2230,brewery_name,repair_value,cached_uniclean,Two Beers Brewing Company
+2247,2242,brewery_name,repair_value,cached_uniclean,Two Roads Brewing Company
+2253,2248,brewery_name,replace_nearby,cached_uniclean,Uinta Brewing Company
+2275,2270,city,repair_value,cached_uniclean,Baltimore
+2291,2286,city,repair_value,cached_uniclean,Boulder
+2304,2299,city,repair_value,cached_uniclean,Salt Lake City
+2340,2335,brewery_name,replace_nearby,cached_uniclean,Westbrook Brewing Company
+2353,2348,city,repair_value,cached_uniclean,Hooksett
+2363,2358,brewery_name,repair_value,cached_uniclean,Wild Onion Brewing Company
+2375,2370,city,repair_value,cached_uniclean,Stevensville
+2376,2371,state,repair_value,cached_uniclean,MT
+2383,2378,state,replace_nearby,cached_uniclean,WI
+2401,2396,state,replace_nearby,cached_uniclean,OR
+54,53,state,replace_nearby,cached_uniclean,IN
+67,66,brewery_name,replace_nearby,cached_uniclean,Abita Brewing Company
+72,71,brewery_name,replace_nearby,cached_uniclean,Against the Grain Brewery
+73,72,brewery_name,replace_nearby,cached_uniclean,Against the Grain Brewery
+74,73,brewery_name,replace_nearby,cached_uniclean,Against the Grain Brewery
+75,74,brewery_name,replace_nearby,cached_uniclean,Against the Grain Brewery
+76,75,brewery_name,replace_nearby,cached_uniclean,Against the Grain Brewery
+77,76,brewery_name,replace_nearby,cached_uniclean,Against the Grain Brewery
+78,77,brewery_name,replace_nearby,cached_uniclean,Against the Grain Brewery
+79,78,brewery_name,replace_nearby,cached_uniclean,Against the Grain Brewery
+81,80,brewery_name,replace_nearby,cached_uniclean,Against the Grain Brewery
+82,81,brewery_name,replace_nearby,cached_uniclean,Against the Grain Brewery
+90,89,state,replace_nearby,cached_uniclean,AK
+114,113,state,replace_nearby,cached_uniclean,CA
+145,144,brewery_name,replace_nearby,cached_uniclean,Aspe nBrewing Company
+180,179,state,replace_nearby,cached_uniclean,AL
+193,192,state,replace_nearby,cached_uniclean,yAZ
+357,356,state,replace_nearby,cached_uniclean,MA
+454,453,state,replace_nearby,cached_uniclean,AnK
+457,456,state,replace_nearby,cached_uniclean,AnK
+469,468,brewery_name,replace_nearby,cached_uniclean,Buckbean Brewing Company
+576,574,brewery_name,replace_nearby,cached_uniclean,Center of the Universe Brewing C...
+639,637,state,replace_nearby,cached_uniclean,RI
+707,705,state,replace_nearby,cached_uniclean,K
+709,707,state,replace_nearby,cached_uniclean,K
+794,792,state,replace_nearby,cached_uniclean,CA
+857,854,state,replace_nearby,cached_uniclean,AZ
+910,906,state,replace_nearby,cached_uniclean,AL
+912,908,state,replace_nearby,cached_uniclean,AL
+943,939,brewery_name,replace_nearby,cached_uniclean,Great Crescent Brewery
+989,985,state,replace_nearby,cached_uniclean,RI
+1002,998,state,replace_nearby,cached_uniclean,AW
+1017,1013,brewery_name,replace_nearby,cached_uniclean,Hardywood Park Craft Brewery
+1047,1043,state,replace_nearby,cached_uniclean,OC
+1049,1045,city,replace_nearby,cached_uniclean,Leavenworth
+1080,1076,state,replace_nearby,cached_uniclean,OR
+1159,1155,state,replace_nearby,cached_uniclean,AK
+1177,1173,state,replace_nearby,cached_uniclean,K
+1267,1263,city,replace_nearby,cached_uniclean,Philadelphia
+1331,1327,state,replace_nearby,cached_uniclean,K
+1334,1330,state,replace_nearby,cached_uniclean,K
+1360,1356,state,replace_nearby,cached_uniclean,WI
+1361,1357,brewery_name,replace_nearby,cached_uniclean,Milwaukee Brewing Company
+1456,1452,state,replace_nearby,cached_uniclean,CO
+1585,1580,city,replace_nearby,cached_uniclean,Lyons
+1590,1585,brewery_name,replace_nearby,cached_uniclean,Oskar Blues Brewery
+1597,1592,city,replace_nearby,cached_uniclean,Lyons
+1654,1649,state,replace_nearby,cached_uniclean,MO
+1671,1666,state,replace_nearby,cached_uniclean,CO
+1781,1776,brewery_name,replace_nearby,cached_uniclean,Ruhstaller Beer Company
+1783,1778,brewery_name,replace_nearby,cached_uniclean,Saint Archer Brewery
+1791,1786,state,replace_nearby,cached_uniclean,AZ
+1859,1854,city,replace_nearby,cached_uniclean,Brooklyn
+1950,1945,state,replace_nearby,cached_uniclean,MS
+1960,1955,city,replace_nearby,cached_uniclean,Conroe
+2022,2017,state,replace_nearby,cached_uniclean,LA
+2035,2030,city,replace_nearby,cached_uniclean,Indianapolis
+2056,2051,brewery_name,replace_nearby,cached_uniclean,Sun King Brewing Company
+2069,2064,city,replace_nearby,cached_uniclean,Indianapolis
+2146,2141,city,replace_nearby,cached_uniclean,Waterbury
+2300,2295,state,replace_nearby,cached_uniclean,UT
+2358,2353,state,replace_nearby,cached_uniclean,OR
+2365,2360,city,replace_nearby,cached_uniclean,Lake Barrington

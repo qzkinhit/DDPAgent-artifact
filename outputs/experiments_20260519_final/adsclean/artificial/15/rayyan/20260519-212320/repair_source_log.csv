@@ -1,0 +1,12 @@
+row_idx,row_pos,column,action,source,value
+19,15,journal_issn,repair_value,cached_uniclean,68-Jan
+132,96,journal_issn,repair_value,cached_uniclean,37-Feb
+236,160,journal_issn,repair_value,cached_uniclean,47-Jan
+551,357,journal_title,replace_nearby,cached_uniclean,Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association
+664,430,journal_title,replace_nearby,cached_uniclean,PLoS One
+747,476,journal_issn,replace_nearby,cached_uniclean,67-Mar
+773,495,journal_issn,replace_nearby,cached_uniclean,1460-2105
+855,551,journal_title,replace_nearby,cached_uniclean,Respiration; international review of thoracic diseases
+855,551,journal_issn,replace_nearby,cached_uniclean,0025-7931
+888,571,journal_title,replace_nearby,cached_uniclean,Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography & Interventions
+910,585,journal_title,replace_nearby,cached_uniclean,Cancer

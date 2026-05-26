@@ -1,0 +1,336 @@
+row_idx,row_pos,column,action,source,value
+2,1,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+2,1,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+2,1,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,2/15/04
+4,3,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/01
+6,5,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/9/01
+8,7,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/1/07
+8,7,author_list,delete_as_uniclean_repair,cached_uniclean,{St_ber FMutz NWrigge HPutensen CZinserling JZech SVon Spiegel T}
+9,8,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/11/01
+15,11,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/11/01
+17,13,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+17,13,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/01
+18,14,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/5/01
+19,15,journal_issn,delete_as_uniclean_repair,cached_uniclean,68-Jan
+22,18,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/11/01
+30,25,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/9/01
+32,27,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/7/09
+34,29,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+48,38,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+48,38,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/01
+56,44,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+56,44,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,4/14/12
+58,46,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/01
+63,50,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/11/01
+65,51,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+65,51,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/9/01
+66,52,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+66,52,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/8/01
+75,59,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/3/07
+76,60,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/01
+76,60,article_pagination,delete_as_uniclean_repair,cached_uniclean,Aug-17
+88,67,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/01
+92,70,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/10/01
+92,70,article_pagination,delete_as_uniclean_repair,cached_uniclean,Jul-93
+94,72,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/11/01
+102,76,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+102,76,author_list,delete_as_uniclean_repair,cached_uniclean,{M. Tercedor SnchezJ.A. Prieto Velasco}
+103,77,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/15/01
+108,81,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/01
+110,83,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+112,85,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/01
+113,86,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/7/01
+121,89,journal_issn,delete_as_uniclean_repair,cached_uniclean,22-Mar
+123,91,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+123,91,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/01
+132,96,journal_issn,delete_as_uniclean_repair,cached_uniclean,37-Feb
+132,96,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/3/06
+140,99,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+141,100,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/11/01
+142,101,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/9/01
+146,104,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/01
+158,113,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+158,113,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/12
+159,114,journal_title,delete_as_uniclean_repair,cached_uniclean,Paliativn_ Schanzova osteotomie pi nereponibiln_ luxaci kyeln_ho kloubu u pacient s dtskou mozkovou obrnou v adolescentn_m vu
+159,114,journal_issn,delete_as_uniclean_repair,cached_uniclean,15-Jan
+159,114,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/01
+159,114,author_list,delete_as_uniclean_repair,cached_uniclean,{D ChocholR ChaloupkaB KalaJ GalloM Netval}
+168,118,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/8/08
+172,120,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/5/01
+176,124,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+181,128,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+182,129,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+182,129,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+182,129,author_list,delete_as_uniclean_repair,cached_uniclean,{Michiel A J KompierEtty G A Wielenga-MeijerDanil H J WigboldusToon W Taris}
+184,130,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/7/01
+186,131,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/01
+196,135,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/9/01
+197,136,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+197,136,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+198,137,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+198,137,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/01
+201,140,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+201,140,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/12
+204,142,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/6/01
+210,146,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+210,146,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+210,146,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,10/15/09
+216,151,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/01
+228,155,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/1/06
+238,162,journal_title,delete_as_uniclean_repair,cached_uniclean,Schlafstrungen bei kritisch kranken patienten
+238,162,journal_issn,delete_as_uniclean_repair,cached_uniclean,17-Mar
+238,162,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+239,163,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+241,165,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+241,165,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/7/01
+242,166,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/02
+243,167,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+243,167,author_list,delete_as_uniclean_repair,cached_uniclean,{Anders HallingHkan OdebergHenrik ForssellJacob OdebergMarie-Louise PerssonLennart RstamIvar VaaraUlf LindbladMichael Freitag}
+260,177,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/01
+263,179,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/5/07
+265,181,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/7/01
+266,182,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/6/02
+278,185,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/2/05
+290,191,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+290,191,author_list,delete_as_uniclean_repair,cached_uniclean,{M. NiewadaJ. PaweskaA. BudajT. MaciochP. Perkowski}
+293,194,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/9/02
+297,196,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/6/01
+298,197,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+299,198,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+308,203,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/3/01
+310,205,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/15/01
+312,206,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/01
+313,207,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+313,207,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+313,207,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,8/15/10
+315,208,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/10/01
+324,215,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+324,215,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+324,215,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,7/15/01
+332,217,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+332,217,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/9/12
+334,218,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/7/01
+337,221,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/5/10
+341,223,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+341,223,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+341,223,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,9/15/10
+344,225,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/9/09
+344,225,author_list,delete_as_uniclean_repair,cached_uniclean,{Renata VrsaloviEva VeronaIva Mihatov-StefanoviBiserka Cicak}
+347,226,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/1/06
+350,229,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/9/01
+351,230,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/01
+353,231,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/15/01
+354,232,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+354,232,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/01
+357,234,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+357,234,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+357,234,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,7/15/03
+358,235,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/8/07
+358,235,author_list,delete_as_uniclean_repair,cached_uniclean,{Akin Uz_mc_gilMeral TopuM Fani BozkurtSinem Akg_l}
+361,237,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+361,237,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+363,239,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/02
+366,241,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+366,241,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+370,244,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/11/01
+374,247,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+377,249,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/15/01
+394,259,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/8/12
+403,266,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+411,271,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/10/01
+418,274,article_pagination,delete_as_uniclean_repair,cached_uniclean,Mar-91
+422,276,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+430,279,author_list,delete_as_uniclean_repair,cached_uniclean,{K. TamakiA. G. ClarS. BeyrerH. Aoki}
+432,280,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/7/01
+434,281,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/01
+436,283,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/8/01
+437,284,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+437,284,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+437,284,author_list,delete_as_uniclean_repair,cached_uniclean,{Yi WangYu ZhouRongDang HuXiuYing WangGerald Volire}
+440,286,author_list,delete_as_uniclean_repair,cached_uniclean,{M RadererC GedlickaA LenauerD DepischW ScheithauerB SchneeweissW FiebigerF LangG V KornekB Sch_ll}
+446,289,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+446,289,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+447,290,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+447,290,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/01
+448,291,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/7/01
+450,293,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/3/01
+455,298,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/4/01
+456,299,journal_title,delete_as_uniclean_repair,cached_uniclean,Nowoczesne biomateriay jako opatrunki hemostatyczne w chirurgii oszczedzajacej miazsz nerki--model zwierzecy. Doniesienie wstepne.
+456,299,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/7/01
+456,299,article_pagination,delete_as_uniclean_repair,cached_uniclean,May-51
+456,299,author_list,delete_as_uniclean_repair,cached_uniclean,{Przemysaw P SzyberArtur PupkaPiotr SzyberJerzy Garcarek}
+457,300,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/9/01
+464,304,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/4/01
+467,307,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/15/01
+474,311,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+474,311,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/01
+496,325,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/08
+501,326,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,12/7/02
+501,326,author_list,delete_as_uniclean_repair,cached_uniclean,{Sren BrostrmGunnar Lose}
+509,330,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/01
+513,332,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+513,332,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/01
+533,347,article_title,delete_as_uniclean_repair,cached_uniclean,The parvalbumin-positive interneurons in the mouse dentate gyrus express GABAA receptor subunits 1 _2 and  along their extrasynaptic cell membrane.
+533,347,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+533,347,author_list,delete_as_uniclean_repair,cached_uniclean,{H HgerW SieghartT KlausbergerI MilenkovicM VasiljevicD Maurer}
+534,348,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+534,348,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+539,351,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/6/01
+540,352,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/4/01
+547,354,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/6/01
+550,356,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+550,356,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+551,357,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+551,357,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+557,361,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/10/01
+571,368,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/11/07
+571,368,author_list,delete_as_uniclean_repair,cached_uniclean,{Ana Maria Baptista MenezesDavid Alejandro GonzlezElaine Cardozo MacedoPedro Curi HallalMaria de Ftima MaiaMarli KnorstSamuel Carvalho DumithJeovany Mart_nez-MesaRicardo Bica NoalFernando Csar WehrmeisterJos Roberto Jardim}
+573,369,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/01
+580,375,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/7/07
+605,391,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+605,391,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/10
+622,402,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/10/08
+622,402,author_list,delete_as_uniclean_repair,cached_uniclean,{R SchwarzJ ErnstM ZengerE Br_hlerR Schmidt}
+643,414,journal_issn,delete_as_uniclean_repair,cached_uniclean,0737-1209
+643,414,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+643,414,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+643,414,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,4/15/11
+666,432,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/15/01
+672,434,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/11/01
+693,445,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+703,451,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/15/01
+705,452,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+705,452,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+705,452,author_list,delete_as_uniclean_repair,cached_uniclean,{Paolo Dell'OglioAlessandro LarcherNicola FossatiNicol_ Maria BuffiAlberto AbrateGiuliana ListaFrancesco MontorsiFrancesco MistrettaMassimo LazzeriGiorgio GuazzoniGiovanni Lughezzani}
+713,459,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+713,459,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/01
+745,475,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+747,476,journal_issn,delete_as_uniclean_repair,cached_uniclean,67-Mar
+747,476,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+769,491,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+769,491,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+769,491,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,4/14/07
+771,493,journal_title,delete_as_uniclean_repair,cached_uniclean,Prvention de l'insuffisance rnale induite par les produits de contrnste iodes
+771,493,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/8/09
+772,494,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+773,495,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/07
+785,503,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/07
+792,508,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+792,508,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+797,511,article_title,delete_as_uniclean_repair,cached_uniclean,Bruxismo em crianas Bruxism in children
+797,511,article_pagination,delete_as_uniclean_repair,cached_uniclean,Aug-91
+797,511,author_list,delete_as_uniclean_repair,cached_uniclean,{Ronaldo FazziAna Estela HaddadMaria Salete Nahs Pires Corra}
+862,553,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+862,553,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+863,554,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+863,554,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/15/01
+863,554,article_pagination,delete_as_uniclean_repair,cached_uniclean,Jul-72
+863,554,author_list,delete_as_uniclean_repair,cached_uniclean,{Venancio Mart_nez Surez}
+864,555,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,7/14/07
+864,555,author_list,delete_as_uniclean_repair,cached_uniclean,{Margarita Admetlla FalguerasJosep Fust Sugraes}
+886,570,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/15/01
+888,571,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+888,571,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+900,579,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+900,579,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/5/07
+953,610,article_title,delete_as_uniclean_repair,cached_uniclean,Prevalncia de bruxismo e distrbio do sono em deficientes visuais Prevalence of bruxism and sleep disorders in the visually impaired individuals
+953,610,author_list,delete_as_uniclean_repair,cached_uniclean,{Ana Paula de Lima FerreiraMarcelo de Souza FigueiroaBrbara Bernardo Rinaldo da SilvaKtia Roberta Rapso Sales Lacerda}
+969,619,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+973,623,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+973,623,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/7/01
+976,626,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+976,626,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/15/09
+976,626,article_pagination,delete_as_uniclean_repair,cached_uniclean,Jul-71
+976,626,author_list,delete_as_uniclean_repair,cached_uniclean,{Kerstin Landin-WilhelmsenGran OlerdOskar RagnarssonPenelope Trimpou}
+978,627,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+978,627,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/10/11
+998,640,article_jvolumn,delete_as_uniclean_repair,cached_uniclean,-1
+998,640,article_jissue,delete_as_uniclean_repair,cached_uniclean,-1
+3,2,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/6/12
+5,4,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/15/10
+12,9,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/15/01
+13,10,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/01
+20,16,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/7/06
+21,17,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/12
+23,19,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/12
+26,21,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/03
+27,22,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/8/12
+29,24,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/01
+31,26,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/8/12
+35,30,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/15/02
+37,31,journal_issn,delete_as_uniclean_repair,cached_uniclean,1423-0356
+37,31,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+38,32,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/9/02
+38,32,author_list,delete_as_uniclean_repair,cached_uniclean,{R Loch MacdonaldFarbod Asgarzadie-GadimYeon Gyoe JangDaniel J CurryRachel N YanowitchKim E SchultheissJocelyn TolentinoJ_rgen L_ders}
+40,34,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/8/06
+42,35,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/10
+44,36,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+49,39,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/10/11
+53,42,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/11
+54,43,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/10/11
+57,45,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/6/09
+60,47,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/12
+61,48,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/15/01
+62,49,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/2/04
+69,53,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/06
+72,56,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/01
+72,56,author_list,delete_as_uniclean_repair,cached_uniclean,{Cecilia BjrkelundMargaretha Jerlock}
+74,58,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/15/01
+81,62,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/10/01
+82,63,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/7/02
+84,64,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/15/05
+84,64,author_list,delete_as_uniclean_repair,cached_uniclean,{E HuguetO PortaE Mart_nezI MoraM Sim_J PubillJ A OrtegaM T Castillo}
+85,65,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+87,66,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/6/12
+91,69,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/9/03
+95,73,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/01
+96,74,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/7/01
+99,75,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/2/09
+104,78,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/9/08
+105,79,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/04
+106,80,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/6/03
+109,82,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/3/04
+111,84,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/09
+115,87,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/1/04
+122,90,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/02
+124,92,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/01
+125,93,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/11/01
+126,94,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/05
+126,94,author_list,delete_as_uniclean_repair,cached_uniclean,{V Cus_H GalvezM IriondoJ CampistolI MlagaA Garc_a Cazorla}
+137,98,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/11
+144,102,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/5/01
+145,103,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/7/03
+148,105,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+150,107,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/4/05
+152,108,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/12/10
+160,115,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+162,116,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/05
+171,119,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/6/07
+171,119,author_list,delete_as_uniclean_repair,cached_uniclean,{A PhilotheouS R HellerJ JendleM-A GallK KlendorfG P RossG PerrielloI Pavlic-Renar}
+173,121,article_title,delete_as_uniclean_repair,cached_uniclean,Association of transforming growth factor-_1T869C G915C and C509T gene polymorphisms with rheumatoid arthritis risk.
+173,121,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/12
+175,123,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/2/01
+179,126,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+180,127,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/13/10
+192,133,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/9/01
+194,134,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,2/6/08
+213,149,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/2/01
+248,170,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/8/12
+248,170,author_list,delete_as_uniclean_repair,cached_uniclean,{Luiz Rogrio de Carvalho OliveiraNilza Aparecida Almeida de CarvalhoFlvio C L Cavalcanti ArajoIzabela Menezes PagottoPaulo Chiavone}
+269,184,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/01
+362,238,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/6/01
+383,253,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/5/08
+393,258,journal_title,delete_as_uniclean_repair,cached_uniclean,Cirug_a Peditrica: Organo Oficial De La Sociedad Espaola De Cirug_a Peditrica
+393,258,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/8/07
+393,258,author_list,delete_as_uniclean_repair,cached_uniclean,{J AranaE RezolaA VillanuevaM I IntxaurrondoM SuolI EizaguirreJ Garay}
+428,278,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/9/12
+428,278,author_list,delete_as_uniclean_repair,cached_uniclean,{Serkan DurduAhmet R_han AkarG_nseli Cubukuolu Deniz}
+435,282,journal_issn,delete_as_uniclean_repair,cached_uniclean,65-Feb
+451,294,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/9/05
+508,329,journal_issn,delete_as_uniclean_repair,cached_uniclean,53-Nov
+609,393,journal_title,delete_as_uniclean_repair,cached_uniclean,Zeitschrift fr Erkrankungen der Atmungsorgane mit Folia bronchologica
+750,477,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/11/05
+757,483,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/1/06
+788,505,journal_title,delete_as_uniclean_repair,cached_uniclean,Stomatologiia
+791,507,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/14/12
+967,618,article_jcreated_at,delete_as_uniclean_repair,cached_uniclean,1/3/10

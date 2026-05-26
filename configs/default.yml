@@ -1,0 +1,19 @@
+profile: default
+episodes: 300
+detector: benchmark
+single_max: 10000
+scenario: original
+subset_policy: cluster10k
+datasets:
+  - hospitals
+  - flights
+  - beers
+  - rayyan
+  - tax
+notes:
+  benchmark_detector: "RAHA may use clean_index for benchmark-assisted labeling."
+  nogt_detector: "Use --detector nogt to disable RAHA and avoid clean_index in detection."
+  repair_values: "Final repair_value actions are filled by index/column lookup from cached or freshly generated UniClean cleaned CSVs, not clean_index."
+  replace_nearby: "Default ADS execution uses UniClean for VE-replace; --ve-source demandclean keeps the original DemandClean value estimator."
+  execution_profile: "Default scripts use UniClean for repair_value and VE execution, convert delete to UniClean repair, and apply rollback_no_improve verification."
+  large_subsets: "Use the FD/key-clustered/index 10k main subset for tax and cap detected-error candidates for runnable smoke coverage."
