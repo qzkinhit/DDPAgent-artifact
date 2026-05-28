@@ -3,8 +3,8 @@
   "scenario": "original",
   "error_rate": null,
   "subset_source": "",
-  "dirty_path": "/Users/qianzekai/PycharmProjects/DDPAgent-artifact/data/uniclean/3_beers/dirty_index.csv",
-  "clean_path": "/Users/qianzekai/PycharmProjects/DDPAgent-artifact/data/uniclean/3_beers/clean_index.csv",
+  "dirty_path": "data/uniclean/3_beers/dirty_index.csv",
+  "clean_path": "data/uniclean/3_beers/clean_index.csv",
   "cached_uniclean_path": null,
   "detector_mode": "benchmark",
   "episodes": 1,
@@ -27,5 +27,5 @@
   "expanded_semantic_errors": 0,
   "seed": 42,
   "single_max": 500,
-  "notes": "Natural overlap between DemandClean and UniClean."
+  "notes": "Natural overlap between the packaged action-allocation benchmark and UniClean."
 }

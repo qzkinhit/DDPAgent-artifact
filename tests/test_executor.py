@@ -1,8 +1,8 @@
 import numpy as np
 import pandas as pd
 
-from ads_clean.executor import execute_final_cleaning
-from ads_clean.repair_sources import CleanedValueSource
+from demandprep.executor import execute_final_cleaning
+from demandprep.repair_sources import CleanedValueSource
 
 
 class DummyConfig:
@@ -44,7 +44,7 @@ def test_executor_uses_uniclean_for_repair(tmp_path):
     assert result.fallback_count == 0
 
 
-def test_executor_can_keep_demandclean_value_estimator_for_ve(tmp_path):
+def test_executor_can_keep_policy_value_estimator_for_ve(tmp_path):
     source = CleanedValueSource.from_df(
         pd.DataFrame({"index": [1, 2], "a": ["uni-x", "y"], "b": ["1", "2"]}),
         None,
@@ -55,7 +55,7 @@ def test_executor_can_keep_demandclean_value_estimator_for_ve(tmp_path):
         DummyDemand(),
         source,
         tmp_path,
-        ve_source="demandclean",
+        ve_source="policy",
     )
     assert result.cleaned_df.loc[0, "a"] == "uni-x"
     assert result.cleaned_df.loc[1, "b"] == "decoded-b-20"

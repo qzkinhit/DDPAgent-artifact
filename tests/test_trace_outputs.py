@@ -2,9 +2,9 @@ import json
 
 import pandas as pd
 
-from ads_clean.demo_data import action_summary, build_workflow_graph, dataset_catalog, load_run, runs_for_config
-from ads_clean.executor import execute_final_cleaning
-from ads_clean.repair_sources import CleanedValueSource
+from demandprep.demo_data import action_summary, build_workflow_graph, dataset_catalog, load_run, runs_for_config
+from demandprep.executor import execute_final_cleaning
+from demandprep.repair_sources import CleanedValueSource
 
 
 class TraceConfig:

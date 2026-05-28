@@ -1,7 +1,7 @@
 from pathlib import Path
 
-from ads_clean.datasets import load_dataset_config
-from ads_clean.preprocess import prepare_dataset
+from demandprep.datasets import load_dataset_config
+from demandprep.preprocess import prepare_dataset
 
 
 def test_beers_preprocess(tmp_path):

@@ -1,3 +1,3 @@
 operation_id,operation_type,row_idx,row_pos,column,action,source,old_value,new_value,changed,accepted_by_verifier,verifier_selected
-0,row_delete,1,0,,delete,ddpagent_action_policy,,,True,True,candidate
-1,row_delete,21,20,,delete,ddpagent_action_policy,,,True,True,candidate
+0,row_delete,1,0,,delete,demandprep_action_policy,,,True,True,candidate
+1,row_delete,21,20,,delete,demandprep_action_policy,,,True,True,candidate

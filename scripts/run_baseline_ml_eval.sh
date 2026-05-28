@@ -17,7 +17,7 @@ run_eval() {
   local scenario="$1"
   local log="$LOG_DIR/${scenario}.log"
   echo "[run] baseline ML $scenario -> $log"
-  if PYTHONPATH="$REPO_ROOT/src" python -m ads_clean.cli eval-baselines \
+  if PYTHONPATH="$REPO_ROOT/src" python -m demandprep.cli eval-baselines \
       --scenario "$scenario" \
       --uniclean-result-root "$UNICLEAN_RESULT_ROOT" \
       --subset-policy "$SUBSET_POLICY" \

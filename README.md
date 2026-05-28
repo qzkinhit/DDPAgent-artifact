@@ -1,9 +1,11 @@
 # DemandPrep-artifact
 [中文说明](README.zh-CN.md)
 
+Repository: https://github.com/qzkinhit/DemandPrep-artifact
+
 This repository contains the code, datasets, cached cleaning outputs, reported experiment summaries, and interactive demo for DemandPrep:
 
-**DemandPrep for Demand-Driven Data Preparation via Agentic Action Allocation and Operator-Grounded Execution**
+**DemandPrep: Demand-Driven Data Preparation via Agentic Action Allocation and Operator-Grounded Execution**
 
 The repository does not include the paper source or PDF. It is scoped to reproducible code, data artifacts, experiment outputs, and the demo.
 
@@ -14,7 +16,7 @@ If you use this repository, please cite the accompanying DemandPrep paper:
 ```bibtex
 @misc{qian2026DemandPrep,
   title  = {DemandPrep: Demand-Driven Data Preparation via Agentic Action Allocation and Operator-Grounded Execution},
-  author = {Qian, Zekai and Ding, Xiaoou and Wang, Hongzhi and Wang, chen},
+  author = {Qian, Zekai and Ding, Xiaoou and Wang, Hongzhi and Wang, Chen},
   year   = {2026},
   note   = {Research artifact}
 }
@@ -33,15 +35,15 @@ The repository does not contain simulated workflow traces. The default demo view
 The Streamlit demo also provides a real-run button. It invokes:
 
 ```bash
-python -m ads_clean.cli run ... --force-uniclean-run --trace-operators
+python -m demandprep.cli run ... --force-uniclean-run --trace-operators
 ```
 
 That command reruns UniClean and DemandPrep instead of fabricating operator coverage, rule counts, weights, or data operations.
 
 ## Contents
 
-- `src/ads_clean`: DemandPrep orchestration, dataset loading, action allocation execution, trace writing, baseline evaluation, and summarization.
-- `src/demandclean`: vendored RL action-allocation implementation used by the controller.
+- `src/demandprep`: DemandPrep orchestration, dataset loading, action allocation execution, trace writing, baseline evaluation, and summarization.
+- `src/demandprep_policy`: vendored RL action-allocation implementation used by the controller.
 - `src/SampleScrubber`, `src/AnalyticsCache`, `src/CoreSetSample`: vendored operator-execution substrate used by the cleaning executor.
 - `data/uniclean`: packaged native-error tables for Beers, Flights, Hospitals, Rayyan, and Tax-10K.
 - `result_assets/UnicleanResult`: cached native and injected tables, full-operator outputs, and fixed-cleaner outputs used by the reported experiments.
@@ -102,7 +104,7 @@ This script runs native and injected settings for the included datasets with mul
 A smaller single run can be launched manually:
 
 ```bash
-PYTHONPATH=src python -m ads_clean.cli run \
+PYTHONPATH=src python -m demandprep.cli run \
   --dataset beers \
   --scenario original \
   --output-root outputs/demo_trace_runs \
@@ -148,10 +150,10 @@ The workflow explorer shows:
 
 Main reported summaries:
 
-- `outputs/experiments_20260519_final/adsclean/adsclean_summary.csv`
+- `outputs/experiments_20260519_final/demandprep/demandprep_summary.csv`
 - `outputs/experiments_20260519_final/baseline_eval/original/baseline_ml_summary.csv`
 - `outputs/experiments_20260519_final/baseline_eval/artificial/baseline_ml_summary.csv`
-- `outputs/experiments_20260520_hospital_measurecode/adsclean/adsclean_summary.csv`
+- `outputs/experiments_20260520_hospital_measurecode/demandprep/demandprep_summary.csv`
 - `outputs/experiments_20260520_hospital_measurecode/baseline_eval/original/baseline_ml_summary.csv`
 - `outputs/experiments_20260520_hospital_measurecode/baseline_eval/artificial/baseline_ml_summary.csv`
 

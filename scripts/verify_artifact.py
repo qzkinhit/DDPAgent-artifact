@@ -84,19 +84,19 @@ def check_summary(rel: str, expected_rows: int | None = None) -> None:
 
 
 def check_reported_summaries() -> None:
-    check_summary("outputs/experiments_20260519_final/adsclean/adsclean_summary.csv", 45)
+    check_summary("outputs/experiments_20260519_final/demandprep/demandprep_summary.csv", 45)
     check_summary("outputs/experiments_20260519_final/baseline_eval/original/baseline_ml_summary.csv", 45)
     check_summary("outputs/experiments_20260519_final/baseline_eval/artificial/baseline_ml_summary.csv", 360)
-    check_summary("outputs/experiments_20260520_hospital_measurecode/adsclean/adsclean_summary.csv", 9)
+    check_summary("outputs/experiments_20260520_hospital_measurecode/demandprep/demandprep_summary.csv", 9)
     check_summary("outputs/experiments_20260520_hospital_measurecode/baseline_eval/original/baseline_ml_summary.csv", 9)
     check_summary("outputs/experiments_20260520_hospital_measurecode/baseline_eval/artificial/baseline_ml_summary.csv", 72)
-    check_summary("outputs/experiments_20260519_verifier/adsclean/adsclean_summary.csv", 2)
+    check_summary("outputs/experiments_20260519_verifier/demandprep/demandprep_summary.csv", 2)
 
 
 def check_python_defaults() -> None:
     sys.path.insert(0, str(ROOT / "src"))
-    from ads_clean.datasets import packaged_suite
-    from ads_clean.result_assets import result_dataset_names
+    from demandprep.datasets import packaged_suite
+    from demandprep.result_assets import result_dataset_names
 
     if set(packaged_suite()) != DATASETS:
         fail(f"packaged_suite mismatch: {packaged_suite()}")

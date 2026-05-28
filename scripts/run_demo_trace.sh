@@ -31,7 +31,7 @@ run_one() {
     result_assets_arg=(--result-assets)
   fi
 
-  python -m ads_clean.cli run \
+  python -m demandprep.cli run \
     --dataset "$dataset" \
     --scenario "$scenario" \
     "${rate_arg[@]}" \
@@ -63,4 +63,4 @@ for dataset in "${REGRESSION_DATASETS[@]}"; do
   done
 done
 
-python -m ads_clean.cli summarize-runs --output-root "$OUTPUT_ROOT"
+python -m demandprep.cli summarize-runs --output-root "$OUTPUT_ROOT"

@@ -65,13 +65,13 @@ for ds in $DATASETS; do
   if [ -n "$RF_MAX_DEPTH" ]; then
     runtime_args+=(--rf-max-depth "$RF_MAX_DEPTH")
   fi
-  if [ "$RESUME" = "1" ] && find "$OUTPUT_ROOT/adsclean/original/native/$ds" -name metrics.json -print -quit 2>/dev/null | grep -q .; then
+  if [ "$RESUME" = "1" ] && find "$OUTPUT_ROOT/demandprep/original/native/$ds" -name metrics.json -print -quit 2>/dev/null | grep -q .; then
     echo "[skip] original/$ds already has metrics.json"
     continue
   fi
   log="$LOG_DIR/${ds}.log"
   echo "[run] original/$ds -> $log"
-  if PYTHONPATH="$REPO_ROOT/src" python -m ads_clean.cli run \
+  if PYTHONPATH="$REPO_ROOT/src" python -m demandprep.cli run \
       --dataset "$ds" \
       --scenario original \
       --result-assets \
@@ -80,7 +80,7 @@ for ds in $DATASETS; do
       --detector "$DETECTOR" \
       --episodes "$job_episodes" \
       --single-max "$SINGLE_MAX" \
-      --output-root "$OUTPUT_ROOT/adsclean" \
+      --output-root "$OUTPUT_ROOT/demandprep" \
       "${runtime_args[@]}" \
       "${quiet_args[@]}" >"$log" 2>&1; then
     echo "[ok ] original/$ds"

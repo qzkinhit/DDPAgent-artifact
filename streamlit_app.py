@@ -11,7 +11,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 
-from ads_clean.demo_data import (
+from demandprep.demo_data import (
     action_records,
     action_summary,
     available_runs,
@@ -50,7 +50,7 @@ ICON_PATHS = {
 TEXT: Dict[str, Dict[str, str]] = {
     "en": {
         "toggle": "中文",
-        "title": "DDPAgent Console",
+        "title": "DemandPrep Console",
         "subtitle": "Demand-driven data governance agent",
         "caption": "Configure a downstream task, choose candidate models, inspect cached real artifacts, or launch a real traced execution.",
         "step1": "1. Data",
@@ -92,7 +92,7 @@ TEXT: Dict[str, Dict[str, str]] = {
         "tabs_operators": "Operators",
         "tabs_operations": "Data Operations",
         "tabs_verifier": "Verifier",
-        "missing_operator": "This artifact has no runtime operator trace. DDPAgent will not display operator coverage or weights for this run.",
+        "missing_operator": "This artifact has no runtime operator trace. DemandPrep will not display operator coverage or weights for this run.",
         "node_inspect": "Inspect node",
         "action_filter": "Action",
         "phase_filter": "Phase",
@@ -111,7 +111,7 @@ TEXT: Dict[str, Dict[str, str]] = {
     },
     "zh": {
         "toggle": "English",
-        "title": "DDPAgent 控制台",
+        "title": "DemandPrep 控制台",
         "subtitle": "按需数据治理 Agent",
         "caption": "配置下游任务，选择候选模型，查看真实缓存 artifact，或启动带 trace 的真实执行。",
         "step1": "1. 数据",
@@ -153,7 +153,7 @@ TEXT: Dict[str, Dict[str, str]] = {
         "tabs_operators": "算子",
         "tabs_operations": "数据操作",
         "tabs_verifier": "验证器",
-        "missing_operator": "该 artifact 没有运行时算子 trace。DDPAgent 不会为该运行展示算子覆盖或权重。",
+        "missing_operator": "该 artifact 没有运行时算子 trace。DemandPrep 不会为该运行展示算子覆盖或权重。",
         "node_inspect": "查看节点",
         "action_filter": "动作",
         "phase_filter": "阶段",
@@ -174,7 +174,7 @@ TEXT: Dict[str, Dict[str, str]] = {
 
 
 def main() -> None:
-    st.set_page_config(page_title="DDPAgent Console", layout="wide")
+    st.set_page_config(page_title="DemandPrep Console", layout="wide")
     _inject_css()
     lang = _language()
     t = lambda key: TEXT[lang][key]
@@ -516,7 +516,7 @@ def _icon(name: str, size: int = 18, color: str = "currentColor") -> str:
 
 
 def _sidebar_brand(lang: str) -> str:
-    title = "DDPAgent"
+    title = "DemandPrep"
     subtitle = "Data governance console" if lang == "en" else "数据治理控制台"
     return (
         "<div class='sidebar-brand'>"
@@ -689,7 +689,7 @@ def _run_real_pipeline(dataset: str, scenario: str, error_rate: Optional[str], m
     cmd = [
         sys.executable,
         "-m",
-        "ads_clean.cli",
+        "demandprep.cli",
         "run",
         "--dataset",
         dataset,

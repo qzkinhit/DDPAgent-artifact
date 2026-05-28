@@ -67,13 +67,13 @@ for ds in $DATASETS; do
     runtime_args+=(--rf-max-depth "$RF_MAX_DEPTH")
   fi
   for rate in $ERROR_RATES; do
-    if [ "$RESUME" = "1" ] && find "$OUTPUT_ROOT/adsclean/artificial/$rate/$ds" -name metrics.json -print -quit 2>/dev/null | grep -q .; then
+    if [ "$RESUME" = "1" ] && find "$OUTPUT_ROOT/demandprep/artificial/$rate/$ds" -name metrics.json -print -quit 2>/dev/null | grep -q .; then
       echo "[skip] artificial/$ds/$rate already has metrics.json"
       continue
     fi
     log="$LOG_DIR/${ds}_${rate}.log"
     echo "[run] artificial/$ds/$rate -> $log"
-    if PYTHONPATH="$REPO_ROOT/src" python -m ads_clean.cli run \
+    if PYTHONPATH="$REPO_ROOT/src" python -m demandprep.cli run \
         --dataset "$ds" \
         --scenario artificial \
         --error-rate "$rate" \
@@ -83,7 +83,7 @@ for ds in $DATASETS; do
         --detector "$DETECTOR" \
         --episodes "$job_episodes" \
         --single-max "$SINGLE_MAX" \
-        --output-root "$OUTPUT_ROOT/adsclean" \
+        --output-root "$OUTPUT_ROOT/demandprep" \
         "${runtime_args[@]}" \
         "${quiet_args[@]}" >"$log" 2>&1; then
       echo "[ok ] artificial/$ds/$rate"

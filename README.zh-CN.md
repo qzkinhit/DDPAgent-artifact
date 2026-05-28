@@ -2,9 +2,11 @@
 
 [English README](README.md)
 
+仓库地址：https://github.com/qzkinhit/DemandPrep-artifact
+
 本仓库包含 DemandPrep 的代码、数据集、缓存清洗结果、实验汇总和交互式演示：
 
-**DemandPrep for Demand-Driven Data Preparation via Agentic Action Allocation and Operator-Grounded Execution**
+**DemandPrep: Demand-Driven Data Preparation via Agentic Action Allocation and Operator-Grounded Execution**
 
 本仓库不包含论文 LaTeX 源码或 PDF。开源范围仅包括可复现代码、数据 artifact、实验输出和演示界面。
 
@@ -34,15 +36,15 @@ DemandPrep 将数据准备看作一个数据治理 agent，而不是一条固定
 Streamlit 页面中也提供真实运行按钮。该按钮实际调用：
 
 ```bash
-python -m ads_clean.cli run ... --force-uniclean-run --trace-operators
+python -m demandprep.cli run ... --force-uniclean-run --trace-operators
 ```
 
 也就是说，它会重新运行 UniClean 和 DemandPrep，不会伪造算子覆盖范围、修复规则数量、权重或数据操作。
 
 ## 目录结构
 
-- `src/ads_clean`：DemandPrep 主流程，包括数据集加载、动作分配执行、trace 输出、baseline 评估和结果汇总。
-- `src/demandclean`：动作分配控制器使用的强化学习实现。
+- `src/demandprep`：DemandPrep 主流程，包括数据集加载、动作分配执行、trace 输出、baseline 评估和结果汇总。
+- `src/demandprep_policy`：动作分配控制器使用的强化学习实现。
 - `src/SampleScrubber`、`src/AnalyticsCache`、`src/CoreSetSample`：清洗算子执行和编排相关代码。
 - `data/uniclean`：Beers、Flights、Hospitals、Rayyan 和 Tax-10K 的原生错误表。
 - `result_assets/UnicleanResult`：实验使用的缓存原生错误表、人工注入错误表、FullOps 输出和固定清洗 baseline 输出。
@@ -103,7 +105,7 @@ bash scripts/run_demo_trace.sh
 也可以手动运行一个小实验：
 
 ```bash
-PYTHONPATH=src python -m ads_clean.cli run \
+PYTHONPATH=src python -m demandprep.cli run \
   --dataset beers \
   --scenario original \
   --output-root outputs/demo_trace_runs \
@@ -149,10 +151,10 @@ http://127.0.0.1:8501
 
 主要实验汇总表：
 
-- `outputs/experiments_20260519_final/adsclean/adsclean_summary.csv`
+- `outputs/experiments_20260519_final/demandprep/demandprep_summary.csv`
 - `outputs/experiments_20260519_final/baseline_eval/original/baseline_ml_summary.csv`
 - `outputs/experiments_20260519_final/baseline_eval/artificial/baseline_ml_summary.csv`
-- `outputs/experiments_20260520_hospital_measurecode/adsclean/adsclean_summary.csv`
+- `outputs/experiments_20260520_hospital_measurecode/demandprep/demandprep_summary.csv`
 - `outputs/experiments_20260520_hospital_measurecode/baseline_eval/original/baseline_ml_summary.csv`
 - `outputs/experiments_20260520_hospital_measurecode/baseline_eval/artificial/baseline_ml_summary.csv`
 

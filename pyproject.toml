@@ -3,9 +3,9 @@ requires = ["setuptools>=61", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "adsclean"
+name = "demandprep"
 version = "0.1.0"
-description = "Agentic data cleaning pipeline coupling DemandClean control with UniClean workflow generation."
+description = "Demand-driven data preparation pipeline with action allocation and operator-grounded execution."
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
@@ -35,7 +35,7 @@ benchmark = ["raha>=1.20"]
 ui = ["streamlit>=1.30", "plotly>=5.18"]
 
 [project.scripts]
-ads-clean = "ads_clean.cli:main"
+demandprep = "demandprep.cli:main"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
@@ -43,8 +43,8 @@ py-modules = ["Clean", "uniclean_util"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
-include = ["ads_clean*", "demandclean*", "SampleScrubber*", "AnalyticsCache*", "CoreSetSample*"]
+include = ["demandprep*", "demandprep_policy*", "SampleScrubber*", "AnalyticsCache*", "CoreSetSample*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
-norecursedirs = ["result_assets", "outputs", "data", "demandclean", "uniclean", "vldb-workshop-style-master"]
+norecursedirs = ["result_assets", "outputs", "data", "demandprep_policy", "uniclean", "vldb-workshop-style-master"]
